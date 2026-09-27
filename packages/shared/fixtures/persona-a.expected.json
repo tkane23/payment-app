@@ -1,0 +1,429 @@
+{
+  "persona": "A",
+  "recurring": [
+    {
+      "key": "rent",
+      "serviceId": "rent",
+      "serviceName": "家賃",
+      "category": "housing",
+      "merchantRaw": "家賃 モック不動産",
+      "accountId": "a-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0032",
+        "a-0071",
+        "a-0106",
+        "a-0144",
+        "a-0182",
+        "a-0220",
+        "a-0266",
+        "a-0299",
+        "a-0340",
+        "a-0382",
+        "a-0419",
+        "a-0460"
+      ],
+      "latestAmountYen": 78000,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "electricity",
+      "serviceId": "tepco",
+      "serviceName": "東京電力",
+      "category": "electricity",
+      "merchantRaw": "東京電力EP",
+      "accountId": "a-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0024",
+        "a-0062",
+        "a-0096",
+        "a-0135",
+        "a-0169",
+        "a-0209",
+        "a-0257",
+        "a-0289",
+        "a-0333",
+        "a-0373",
+        "a-0409",
+        "a-0448"
+      ],
+      "latestAmountYen": 4682,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "mobile",
+      "serviceId": "ahamo",
+      "serviceName": "ahamo",
+      "category": "mobile",
+      "merchantRaw": "AHAMO",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0031",
+        "a-0070",
+        "a-0105",
+        "a-0143",
+        "a-0181",
+        "a-0217",
+        "a-0265",
+        "a-0298",
+        "a-0338",
+        "a-0380",
+        "a-0417",
+        "a-0459"
+      ],
+      "latestAmountYen": 2970,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "netflix",
+      "serviceId": "netflix",
+      "serviceName": "Netflix",
+      "category": "video",
+      "merchantRaw": "NETFLIX.COM",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0008",
+        "a-0045",
+        "a-0079",
+        "a-0119",
+        "a-0149",
+        "a-0189",
+        "a-0231",
+        "a-0272",
+        "a-0312",
+        "a-0349",
+        "a-0390",
+        "a-0428"
+      ],
+      "latestAmountYen": 1590,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "unext",
+      "serviceId": "unext",
+      "serviceName": "U-NEXT",
+      "category": "video",
+      "merchantRaw": "U-NEXT",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0018",
+        "a-0055",
+        "a-0085",
+        "a-0128",
+        "a-0159",
+        "a-0195",
+        "a-0247",
+        "a-0280",
+        "a-0320",
+        "a-0359",
+        "a-0400",
+        "a-0441"
+      ],
+      "latestAmountYen": 2189,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "hulu",
+      "serviceId": "hulu",
+      "serviceName": "Hulu",
+      "category": "video",
+      "merchantRaw": "HULU",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0001",
+        "a-0038",
+        "a-0077",
+        "a-0112",
+        "a-0146",
+        "a-0183",
+        "a-0225",
+        "a-0271",
+        "a-0305",
+        "a-0344",
+        "a-0385",
+        "a-0425"
+      ],
+      "latestAmountYen": 1026,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "dazn",
+      "serviceId": "dazn",
+      "serviceName": "DAZN",
+      "category": "sports",
+      "merchantRaw": "DAZN",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0030",
+        "a-0068",
+        "a-0104",
+        "a-0142",
+        "a-0180",
+        "a-0215",
+        "a-0264",
+        "a-0295",
+        "a-0336",
+        "a-0379",
+        "a-0415",
+        "a-0457"
+      ],
+      "latestAmountYen": 4200,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "spotify",
+      "serviceId": "spotify",
+      "serviceName": "Spotify",
+      "category": "music",
+      "merchantRaw": "SPOTIFY",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0022",
+        "a-0060",
+        "a-0093",
+        "a-0133",
+        "a-0165",
+        "a-0206",
+        "a-0255",
+        "a-0287",
+        "a-0331",
+        "a-0371",
+        "a-0405",
+        "a-0447"
+      ],
+      "latestAmountYen": 980,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "amazon-prime",
+      "serviceId": "amazon-prime",
+      "serviceName": "Amazonプライム",
+      "category": "shopping",
+      "merchantRaw": "AMAZON PRIME",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0028",
+        "a-0064",
+        "a-0100",
+        "a-0139",
+        "a-0173",
+        "a-0211",
+        "a-0258",
+        "a-0293",
+        "a-0335",
+        "a-0376",
+        "a-0412",
+        "a-0451"
+      ],
+      "latestAmountYen": 600,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "adobe",
+      "serviceId": "adobe",
+      "serviceName": "Adobe フォトプラン",
+      "category": "software",
+      "merchantRaw": "ADOBE",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0020",
+        "a-0058",
+        "a-0091",
+        "a-0131",
+        "a-0162",
+        "a-0201",
+        "a-0250",
+        "a-0284",
+        "a-0325",
+        "a-0364",
+        "a-0402",
+        "a-0443"
+      ],
+      "latestAmountYen": 1180,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "audible",
+      "serviceId": "audible",
+      "serviceName": "Audible",
+      "category": "audiobook",
+      "merchantRaw": "AUDIBLE",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0125",
+        "a-0157",
+        "a-0192",
+        "a-0240",
+        "a-0278",
+        "a-0319",
+        "a-0357",
+        "a-0397",
+        "a-0435"
+      ],
+      "latestAmountYen": 1500,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "apple-bundle",
+      "serviceId": "apple",
+      "serviceName": "App Store（まとめ表示）",
+      "category": "app_store",
+      "merchantRaw": "APPLE.COM/BILL",
+      "accountId": "a-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "a-0011",
+        "a-0050",
+        "a-0081",
+        "a-0122",
+        "a-0154",
+        "a-0190",
+        "a-0237",
+        "a-0276",
+        "a-0316",
+        "a-0355",
+        "a-0392",
+        "a-0433"
+      ],
+      "latestAmountYen": 1030,
+      "variableAmount": false,
+      "bundledBreakdown": [
+        {
+          "serviceName": "iCloud+",
+          "amountYen": 130
+        },
+        {
+          "serviceName": "Duolingo",
+          "amountYen": 400
+        },
+        {
+          "serviceName": "Notion",
+          "amountYen": 500
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "kind": "duplicate",
+      "reason": "same_category",
+      "category": "video",
+      "recurringKeys": [
+        "netflix",
+        "unext"
+      ],
+      "transactionIds": [
+        "a-0428",
+        "a-0441"
+      ]
+    },
+    {
+      "kind": "unused",
+      "recurringKeys": [
+        "dazn"
+      ],
+      "transactionIds": [
+        "a-0379",
+        "a-0415",
+        "a-0457"
+      ],
+      "notUsingMonths": [
+        "2026-07",
+        "2026-08",
+        "2026-09"
+      ]
+    },
+    {
+      "kind": "annualization_candidate",
+      "recurringKeys": [
+        "amazon-prime"
+      ],
+      "transactionIds": [
+        "a-0451"
+      ],
+      "monthsContinued": 12,
+      "monthlyYen": 600,
+      "annualYen": 5900,
+      "annualSavingYen": 1300
+    },
+    {
+      "kind": "price_increase",
+      "recurringKeys": [
+        "netflix"
+      ],
+      "transactionIds": [
+        "a-0189",
+        "a-0231"
+      ],
+      "fromYen": 1490,
+      "toYen": 1590
+    },
+    {
+      "kind": "app_store_bundle",
+      "recurringKeys": [
+        "apple-bundle"
+      ],
+      "transactionIds": [
+        "a-0011",
+        "a-0050",
+        "a-0081",
+        "a-0122",
+        "a-0154",
+        "a-0190",
+        "a-0237",
+        "a-0276",
+        "a-0316",
+        "a-0355",
+        "a-0392",
+        "a-0433"
+      ],
+      "breakdown": [
+        {
+          "serviceName": "iCloud+",
+          "amountYen": 130
+        },
+        {
+          "serviceName": "Duolingo",
+          "amountYen": 400
+        },
+        {
+          "serviceName": "Notion",
+          "amountYen": 500
+        }
+      ]
+    },
+    {
+      "kind": "charge_after_cancellation",
+      "recurringKeys": [
+        "hulu"
+      ],
+      "transactionIds": [
+        "a-0344",
+        "a-0385",
+        "a-0425"
+      ],
+      "reportedOn": "2026-06-10"
+    }
+  ]
+}

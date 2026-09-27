@@ -1,0 +1,4245 @@
+{
+  "persona": "B",
+  "label": "共働き世帯の家計担当",
+  "description": "30〜40代、夫婦共働き、子どもあり。通信・電気・保険など固定費が多い。夫婦それぞれが個別にサブスクを契約し、重複に気づいていない。",
+  "period": {
+    "from": "2025-10-01",
+    "to": "2026-09-30"
+  },
+  "accounts": [
+    {
+      "id": "b-bank",
+      "name": "モック信託銀行 普通預金",
+      "kind": "bank"
+    },
+    {
+      "id": "b-card",
+      "name": "モックカード（本人）",
+      "kind": "credit_card"
+    },
+    {
+      "id": "b-card-family",
+      "name": "モックカード（家族カード・配偶者）",
+      "kind": "credit_card"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "b-0001",
+      "accountId": "b-card",
+      "date": "2025-10-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0002",
+      "accountId": "b-card",
+      "date": "2025-10-01",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3751,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0003",
+      "accountId": "b-card",
+      "date": "2025-10-02",
+      "merchantRaw": "イオン",
+      "amountYen": 11459,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0004",
+      "accountId": "b-card",
+      "date": "2025-10-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0005",
+      "accountId": "b-card-family",
+      "date": "2025-10-03",
+      "merchantRaw": "西友",
+      "amountYen": 2269,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0006",
+      "accountId": "b-card",
+      "date": "2025-10-04",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7625,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0007",
+      "accountId": "b-card",
+      "date": "2025-10-04",
+      "merchantRaw": "イオン",
+      "amountYen": 5383,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0008",
+      "accountId": "b-card-family",
+      "date": "2025-10-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 628,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0009",
+      "accountId": "b-card",
+      "date": "2025-10-05",
+      "merchantRaw": "イオン",
+      "amountYen": 10348,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0010",
+      "accountId": "b-card",
+      "date": "2025-10-06",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1776,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0011",
+      "accountId": "b-card-family",
+      "date": "2025-10-06",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 604,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0012",
+      "accountId": "b-card",
+      "date": "2025-10-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3558,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0013",
+      "accountId": "b-card",
+      "date": "2025-10-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0014",
+      "accountId": "b-card",
+      "date": "2025-10-08",
+      "merchantRaw": "イオン",
+      "amountYen": 3121,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0015",
+      "accountId": "b-card-family",
+      "date": "2025-10-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0016",
+      "accountId": "b-card-family",
+      "date": "2025-10-09",
+      "merchantRaw": "西友",
+      "amountYen": 6195,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0017",
+      "accountId": "b-bank",
+      "date": "2025-10-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0018",
+      "accountId": "b-card",
+      "date": "2025-10-10",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6702,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0019",
+      "accountId": "b-card",
+      "date": "2025-10-12",
+      "merchantRaw": "イオン",
+      "amountYen": 11596,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0020",
+      "accountId": "b-card-family",
+      "date": "2025-10-12",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 6933,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0021",
+      "accountId": "b-card-family",
+      "date": "2025-10-12",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 7864,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0022",
+      "accountId": "b-card-family",
+      "date": "2025-10-13",
+      "merchantRaw": "西友",
+      "amountYen": 4130,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0023",
+      "accountId": "b-card-family",
+      "date": "2025-10-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0024",
+      "accountId": "b-card-family",
+      "date": "2025-10-14",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1372,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0025",
+      "accountId": "b-card",
+      "date": "2025-10-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12800,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0026",
+      "accountId": "b-card",
+      "date": "2025-10-16",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11533,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0027",
+      "accountId": "b-card-family",
+      "date": "2025-10-17",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 759,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0028",
+      "accountId": "b-bank",
+      "date": "2025-10-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6800,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0029",
+      "accountId": "b-card",
+      "date": "2025-10-21",
+      "merchantRaw": "イオン",
+      "amountYen": 7662,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0030",
+      "accountId": "b-card-family",
+      "date": "2025-10-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0031",
+      "accountId": "b-bank",
+      "date": "2025-10-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 11500,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0032",
+      "accountId": "b-card",
+      "date": "2025-10-23",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3686,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0033",
+      "accountId": "b-card",
+      "date": "2025-10-24",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 4418,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0034",
+      "accountId": "b-card-family",
+      "date": "2025-10-24",
+      "merchantRaw": "西友",
+      "amountYen": 5770,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0035",
+      "accountId": "b-card",
+      "date": "2025-10-25",
+      "merchantRaw": "イオン",
+      "amountYen": 7271,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0036",
+      "accountId": "b-card",
+      "date": "2025-10-25",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3324,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0037",
+      "accountId": "b-card-family",
+      "date": "2025-10-25",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1271,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0038",
+      "accountId": "b-card-family",
+      "date": "2025-10-25",
+      "merchantRaw": "西友",
+      "amountYen": 3402,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0039",
+      "accountId": "b-card",
+      "date": "2025-10-26",
+      "merchantRaw": "イオン",
+      "amountYen": 8506,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0040",
+      "accountId": "b-bank",
+      "date": "2025-10-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0041",
+      "accountId": "b-bank",
+      "date": "2025-10-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0042",
+      "accountId": "b-card-family",
+      "date": "2025-10-27",
+      "merchantRaw": "西友",
+      "amountYen": 4526,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0043",
+      "accountId": "b-card-family",
+      "date": "2025-10-28",
+      "merchantRaw": "西友",
+      "amountYen": 6832,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0044",
+      "accountId": "b-card",
+      "date": "2025-10-29",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4265,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0045",
+      "accountId": "b-card-family",
+      "date": "2025-10-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1022,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0046",
+      "accountId": "b-card",
+      "date": "2025-10-30",
+      "merchantRaw": "イオン",
+      "amountYen": 10956,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0047",
+      "accountId": "b-card",
+      "date": "2025-11-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0048",
+      "accountId": "b-card-family",
+      "date": "2025-11-01",
+      "merchantRaw": "西友",
+      "amountYen": 3730,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0049",
+      "accountId": "b-card",
+      "date": "2025-11-02",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6752,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0050",
+      "accountId": "b-card",
+      "date": "2025-11-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0051",
+      "accountId": "b-card-family",
+      "date": "2025-11-03",
+      "merchantRaw": "西友",
+      "amountYen": 6967,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0052",
+      "accountId": "b-card",
+      "date": "2025-11-04",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3132,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0053",
+      "accountId": "b-card",
+      "date": "2025-11-05",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6276,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0054",
+      "accountId": "b-card-family",
+      "date": "2025-11-05",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 4017,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0055",
+      "accountId": "b-card",
+      "date": "2025-11-06",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 971,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0056",
+      "accountId": "b-card",
+      "date": "2025-11-06",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1483,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0057",
+      "accountId": "b-card",
+      "date": "2025-11-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0058",
+      "accountId": "b-card",
+      "date": "2025-11-08",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2293,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0059",
+      "accountId": "b-card",
+      "date": "2025-11-09",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9321,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0060",
+      "accountId": "b-card-family",
+      "date": "2025-11-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0061",
+      "accountId": "b-card-family",
+      "date": "2025-11-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 947,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0062",
+      "accountId": "b-bank",
+      "date": "2025-11-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0063",
+      "accountId": "b-card",
+      "date": "2025-11-10",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1422,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0064",
+      "accountId": "b-card",
+      "date": "2025-11-10",
+      "merchantRaw": "イオン",
+      "amountYen": 6272,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0065",
+      "accountId": "b-card",
+      "date": "2025-11-12",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4091,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0066",
+      "accountId": "b-card",
+      "date": "2025-11-12",
+      "merchantRaw": "イオン",
+      "amountYen": 7838,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0067",
+      "accountId": "b-card-family",
+      "date": "2025-11-13",
+      "merchantRaw": "西友",
+      "amountYen": 2882,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0068",
+      "accountId": "b-card-family",
+      "date": "2025-11-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0069",
+      "accountId": "b-card",
+      "date": "2025-11-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12772,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0070",
+      "accountId": "b-card-family",
+      "date": "2025-11-15",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 594,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0071",
+      "accountId": "b-bank",
+      "date": "2025-11-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6983,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0072",
+      "accountId": "b-card-family",
+      "date": "2025-11-18",
+      "merchantRaw": "西友",
+      "amountYen": 3836,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0073",
+      "accountId": "b-card-family",
+      "date": "2025-11-20",
+      "merchantRaw": "西友",
+      "amountYen": 3272,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0074",
+      "accountId": "b-card",
+      "date": "2025-11-21",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4934,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0075",
+      "accountId": "b-card-family",
+      "date": "2025-11-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0076",
+      "accountId": "b-bank",
+      "date": "2025-11-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 10817,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0077",
+      "accountId": "b-card",
+      "date": "2025-11-24",
+      "merchantRaw": "イオン",
+      "amountYen": 8108,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0078",
+      "accountId": "b-card-family",
+      "date": "2025-11-24",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 688,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0079",
+      "accountId": "b-card-family",
+      "date": "2025-11-24",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1298,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0080",
+      "accountId": "b-card",
+      "date": "2025-11-25",
+      "merchantRaw": "イオン",
+      "amountYen": 6686,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0081",
+      "accountId": "b-card",
+      "date": "2025-11-25",
+      "merchantRaw": "イオン",
+      "amountYen": 9832,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0082",
+      "accountId": "b-card",
+      "date": "2025-11-26",
+      "merchantRaw": "イオン",
+      "amountYen": 6466,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0083",
+      "accountId": "b-card-family",
+      "date": "2025-11-26",
+      "merchantRaw": "西友",
+      "amountYen": 7608,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0084",
+      "accountId": "b-bank",
+      "date": "2025-11-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0085",
+      "accountId": "b-bank",
+      "date": "2025-11-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0086",
+      "accountId": "b-card",
+      "date": "2025-11-27",
+      "merchantRaw": "イオン",
+      "amountYen": 8434,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0087",
+      "accountId": "b-card",
+      "date": "2025-11-27",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3472,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0088",
+      "accountId": "b-card",
+      "date": "2025-11-28",
+      "merchantRaw": "イオン",
+      "amountYen": 11828,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0089",
+      "accountId": "b-card",
+      "date": "2025-11-29",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4202,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0090",
+      "accountId": "b-card-family",
+      "date": "2025-11-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 486,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0091",
+      "accountId": "b-card",
+      "date": "2025-12-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 14890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0092",
+      "accountId": "b-card",
+      "date": "2025-12-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0093",
+      "accountId": "b-card",
+      "date": "2025-12-01",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3129,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0094",
+      "accountId": "b-card-family",
+      "date": "2025-12-01",
+      "merchantRaw": "西友",
+      "amountYen": 2140,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0095",
+      "accountId": "b-card-family",
+      "date": "2025-12-01",
+      "merchantRaw": "西友",
+      "amountYen": 5779,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0096",
+      "accountId": "b-card",
+      "date": "2025-12-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0097",
+      "accountId": "b-card",
+      "date": "2025-12-07",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4330,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0098",
+      "accountId": "b-card",
+      "date": "2025-12-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0099",
+      "accountId": "b-card-family",
+      "date": "2025-12-07",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 706,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0100",
+      "accountId": "b-card-family",
+      "date": "2025-12-07",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1060,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0101",
+      "accountId": "b-card-family",
+      "date": "2025-12-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0102",
+      "accountId": "b-bank",
+      "date": "2025-12-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0103",
+      "accountId": "b-card-family",
+      "date": "2025-12-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1257,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0104",
+      "accountId": "b-card-family",
+      "date": "2025-12-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 550,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0105",
+      "accountId": "b-card-family",
+      "date": "2025-12-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0106",
+      "accountId": "b-card",
+      "date": "2025-12-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12711,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0107",
+      "accountId": "b-card",
+      "date": "2025-12-16",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 14496,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0108",
+      "accountId": "b-card",
+      "date": "2025-12-16",
+      "merchantRaw": "イオン",
+      "amountYen": 8298,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0109",
+      "accountId": "b-card",
+      "date": "2025-12-16",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3218,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0110",
+      "accountId": "b-card-family",
+      "date": "2025-12-16",
+      "merchantRaw": "西友",
+      "amountYen": 7919,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0111",
+      "accountId": "b-bank",
+      "date": "2025-12-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 7115,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0112",
+      "accountId": "b-card",
+      "date": "2025-12-19",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8994,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0113",
+      "accountId": "b-card-family",
+      "date": "2025-12-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 700,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0114",
+      "accountId": "b-card-family",
+      "date": "2025-12-20",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 1909,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0115",
+      "accountId": "b-card-family",
+      "date": "2025-12-20",
+      "merchantRaw": "西友",
+      "amountYen": 6127,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0116",
+      "accountId": "b-card",
+      "date": "2025-12-21",
+      "merchantRaw": "イオン",
+      "amountYen": 3463,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0117",
+      "accountId": "b-card",
+      "date": "2025-12-21",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3335,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0118",
+      "accountId": "b-card-family",
+      "date": "2025-12-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0119",
+      "accountId": "b-card-family",
+      "date": "2025-12-21",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 7602,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0120",
+      "accountId": "b-bank",
+      "date": "2025-12-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 11619,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0121",
+      "accountId": "b-card",
+      "date": "2025-12-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3807,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0122",
+      "accountId": "b-card",
+      "date": "2025-12-22",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6532,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0123",
+      "accountId": "b-card",
+      "date": "2025-12-22",
+      "merchantRaw": "イオン",
+      "amountYen": 2939,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0124",
+      "accountId": "b-card",
+      "date": "2025-12-22",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2045,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0125",
+      "accountId": "b-card-family",
+      "date": "2025-12-22",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 768,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0126",
+      "accountId": "b-card",
+      "date": "2025-12-23",
+      "merchantRaw": "イオン",
+      "amountYen": 11662,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0127",
+      "accountId": "b-card",
+      "date": "2025-12-23",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1272,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0128",
+      "accountId": "b-card-family",
+      "date": "2025-12-23",
+      "merchantRaw": "西友",
+      "amountYen": 4736,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0129",
+      "accountId": "b-card",
+      "date": "2025-12-24",
+      "merchantRaw": "イオン",
+      "amountYen": 5018,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0130",
+      "accountId": "b-card",
+      "date": "2025-12-25",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6409,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0131",
+      "accountId": "b-card",
+      "date": "2025-12-26",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5001,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0132",
+      "accountId": "b-card",
+      "date": "2025-12-26",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2024,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0133",
+      "accountId": "b-bank",
+      "date": "2025-12-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0134",
+      "accountId": "b-bank",
+      "date": "2025-12-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0135",
+      "accountId": "b-card",
+      "date": "2025-12-27",
+      "merchantRaw": "イオン",
+      "amountYen": 9533,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0136",
+      "accountId": "b-card-family",
+      "date": "2025-12-28",
+      "merchantRaw": "西友",
+      "amountYen": 4635,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0137",
+      "accountId": "b-card",
+      "date": "2025-12-29",
+      "merchantRaw": "イオン",
+      "amountYen": 7047,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0138",
+      "accountId": "b-card",
+      "date": "2025-12-31",
+      "merchantRaw": "イオン",
+      "amountYen": 5166,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0139",
+      "accountId": "b-card",
+      "date": "2026-01-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0140",
+      "accountId": "b-card-family",
+      "date": "2026-01-02",
+      "merchantRaw": "西友",
+      "amountYen": 5308,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0141",
+      "accountId": "b-card",
+      "date": "2026-01-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0142",
+      "accountId": "b-card",
+      "date": "2026-01-05",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3567,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0143",
+      "accountId": "b-card-family",
+      "date": "2026-01-06",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 566,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0144",
+      "accountId": "b-card",
+      "date": "2026-01-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0145",
+      "accountId": "b-card",
+      "date": "2026-01-07",
+      "merchantRaw": "イオン",
+      "amountYen": 4029,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0146",
+      "accountId": "b-card",
+      "date": "2026-01-07",
+      "merchantRaw": "イオン",
+      "amountYen": 8044,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0147",
+      "accountId": "b-card-family",
+      "date": "2026-01-08",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 442,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0148",
+      "accountId": "b-card-family",
+      "date": "2026-01-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0149",
+      "accountId": "b-card-family",
+      "date": "2026-01-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1339,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0150",
+      "accountId": "b-bank",
+      "date": "2026-01-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0151",
+      "accountId": "b-card-family",
+      "date": "2026-01-12",
+      "merchantRaw": "西友",
+      "amountYen": 3995,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0152",
+      "accountId": "b-card",
+      "date": "2026-01-13",
+      "merchantRaw": "イオン",
+      "amountYen": 8754,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0153",
+      "accountId": "b-card",
+      "date": "2026-01-14",
+      "merchantRaw": "イオン",
+      "amountYen": 2765,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0154",
+      "accountId": "b-card-family",
+      "date": "2026-01-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0155",
+      "accountId": "b-card-family",
+      "date": "2026-01-14",
+      "merchantRaw": "西友",
+      "amountYen": 6288,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0156",
+      "accountId": "b-card",
+      "date": "2026-01-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12989,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0157",
+      "accountId": "b-card",
+      "date": "2026-01-15",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2581,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0158",
+      "accountId": "b-card",
+      "date": "2026-01-16",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1826,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0159",
+      "accountId": "b-bank",
+      "date": "2026-01-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 7332,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0160",
+      "accountId": "b-card",
+      "date": "2026-01-18",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3689,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0161",
+      "accountId": "b-card-family",
+      "date": "2026-01-19",
+      "merchantRaw": "西友",
+      "amountYen": 3982,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0162",
+      "accountId": "b-card",
+      "date": "2026-01-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8705,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0163",
+      "accountId": "b-card",
+      "date": "2026-01-20",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6853,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0164",
+      "accountId": "b-card",
+      "date": "2026-01-20",
+      "merchantRaw": "イオン",
+      "amountYen": 5712,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0165",
+      "accountId": "b-card-family",
+      "date": "2026-01-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0166",
+      "accountId": "b-bank",
+      "date": "2026-01-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 11096,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0167",
+      "accountId": "b-card-family",
+      "date": "2026-01-26",
+      "merchantRaw": "西友",
+      "amountYen": 7493,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0168",
+      "accountId": "b-bank",
+      "date": "2026-01-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0169",
+      "accountId": "b-bank",
+      "date": "2026-01-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0170",
+      "accountId": "b-card",
+      "date": "2026-01-29",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10830,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0171",
+      "accountId": "b-card",
+      "date": "2026-01-29",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4075,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0172",
+      "accountId": "b-card",
+      "date": "2026-01-29",
+      "merchantRaw": "イオン",
+      "amountYen": 4256,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0173",
+      "accountId": "b-card-family",
+      "date": "2026-01-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1128,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0174",
+      "accountId": "b-card-family",
+      "date": "2026-01-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1488,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0175",
+      "accountId": "b-card",
+      "date": "2026-02-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0176",
+      "accountId": "b-card",
+      "date": "2026-02-01",
+      "merchantRaw": "イオン",
+      "amountYen": 10740,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0177",
+      "accountId": "b-card",
+      "date": "2026-02-02",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4802,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0178",
+      "accountId": "b-card",
+      "date": "2026-02-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0179",
+      "accountId": "b-card",
+      "date": "2026-02-03",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3324,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0180",
+      "accountId": "b-card",
+      "date": "2026-02-04",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8554,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0181",
+      "accountId": "b-card-family",
+      "date": "2026-02-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1096,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0182",
+      "accountId": "b-card",
+      "date": "2026-02-05",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6309,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0183",
+      "accountId": "b-card",
+      "date": "2026-02-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0184",
+      "accountId": "b-card",
+      "date": "2026-02-08",
+      "merchantRaw": "イオン",
+      "amountYen": 7887,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0185",
+      "accountId": "b-card-family",
+      "date": "2026-02-08",
+      "merchantRaw": "西友",
+      "amountYen": 4453,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0186",
+      "accountId": "b-card",
+      "date": "2026-02-09",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2461,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0187",
+      "accountId": "b-card",
+      "date": "2026-02-09",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11514,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0188",
+      "accountId": "b-card",
+      "date": "2026-02-09",
+      "merchantRaw": "イオン",
+      "amountYen": 6964,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0189",
+      "accountId": "b-card-family",
+      "date": "2026-02-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0190",
+      "accountId": "b-bank",
+      "date": "2026-02-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0191",
+      "accountId": "b-card",
+      "date": "2026-02-10",
+      "merchantRaw": "イオン",
+      "amountYen": 7297,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0192",
+      "accountId": "b-card-family",
+      "date": "2026-02-10",
+      "merchantRaw": "西友",
+      "amountYen": 5852,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0193",
+      "accountId": "b-card",
+      "date": "2026-02-11",
+      "merchantRaw": "イオン",
+      "amountYen": 9405,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0194",
+      "accountId": "b-card-family",
+      "date": "2026-02-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 526,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0195",
+      "accountId": "b-card-family",
+      "date": "2026-02-12",
+      "merchantRaw": "西友",
+      "amountYen": 4591,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0196",
+      "accountId": "b-card",
+      "date": "2026-02-13",
+      "merchantRaw": "イオン",
+      "amountYen": 3003,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0197",
+      "accountId": "b-card",
+      "date": "2026-02-13",
+      "merchantRaw": "イオン",
+      "amountYen": 9144,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0198",
+      "accountId": "b-card-family",
+      "date": "2026-02-13",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 4512,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0199",
+      "accountId": "b-card",
+      "date": "2026-02-14",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3411,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0200",
+      "accountId": "b-card-family",
+      "date": "2026-02-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0201",
+      "accountId": "b-card-family",
+      "date": "2026-02-14",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 836,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0202",
+      "accountId": "b-card",
+      "date": "2026-02-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12469,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0203",
+      "accountId": "b-card-family",
+      "date": "2026-02-16",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1367,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0204",
+      "accountId": "b-card",
+      "date": "2026-02-17",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1213,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0205",
+      "accountId": "b-bank",
+      "date": "2026-02-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 7061,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0206",
+      "accountId": "b-card",
+      "date": "2026-02-18",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3019,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0207",
+      "accountId": "b-card",
+      "date": "2026-02-19",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6699,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0208",
+      "accountId": "b-card",
+      "date": "2026-02-19",
+      "merchantRaw": "イオン",
+      "amountYen": 5775,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0209",
+      "accountId": "b-card",
+      "date": "2026-02-19",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3835,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0210",
+      "accountId": "b-card-family",
+      "date": "2026-02-20",
+      "merchantRaw": "西友",
+      "amountYen": 5113,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0211",
+      "accountId": "b-card-family",
+      "date": "2026-02-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0212",
+      "accountId": "b-bank",
+      "date": "2026-02-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 11087,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0213",
+      "accountId": "b-card",
+      "date": "2026-02-22",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1320,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0214",
+      "accountId": "b-card-family",
+      "date": "2026-02-22",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 517,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0215",
+      "accountId": "b-card-family",
+      "date": "2026-02-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0216",
+      "accountId": "b-bank",
+      "date": "2026-02-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0217",
+      "accountId": "b-bank",
+      "date": "2026-02-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0218",
+      "accountId": "b-card-family",
+      "date": "2026-02-27",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 370,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0219",
+      "accountId": "b-card-family",
+      "date": "2026-02-28",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 6625,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0220",
+      "accountId": "b-card",
+      "date": "2026-03-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11586,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0221",
+      "accountId": "b-card",
+      "date": "2026-03-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0222",
+      "accountId": "b-card-family",
+      "date": "2026-03-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1009,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0223",
+      "accountId": "b-card-family",
+      "date": "2026-03-02",
+      "merchantRaw": "西友",
+      "amountYen": 5558,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0224",
+      "accountId": "b-card",
+      "date": "2026-03-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0225",
+      "accountId": "b-card",
+      "date": "2026-03-03",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 2505,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0226",
+      "accountId": "b-card",
+      "date": "2026-03-04",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1263,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0227",
+      "accountId": "b-card",
+      "date": "2026-03-05",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 12291,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0228",
+      "accountId": "b-card",
+      "date": "2026-03-05",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5181,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0229",
+      "accountId": "b-card",
+      "date": "2026-03-06",
+      "merchantRaw": "イオン",
+      "amountYen": 5208,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0230",
+      "accountId": "b-card",
+      "date": "2026-03-06",
+      "merchantRaw": "イオン",
+      "amountYen": 8568,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0231",
+      "accountId": "b-card",
+      "date": "2026-03-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0232",
+      "accountId": "b-card",
+      "date": "2026-03-07",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1664,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0233",
+      "accountId": "b-card",
+      "date": "2026-03-08",
+      "merchantRaw": "イオン",
+      "amountYen": 11601,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0234",
+      "accountId": "b-card",
+      "date": "2026-03-08",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 837,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0235",
+      "accountId": "b-card-family",
+      "date": "2026-03-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0236",
+      "accountId": "b-card-family",
+      "date": "2026-03-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 560,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0237",
+      "accountId": "b-bank",
+      "date": "2026-03-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0238",
+      "accountId": "b-card-family",
+      "date": "2026-03-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1091,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0239",
+      "accountId": "b-card",
+      "date": "2026-03-13",
+      "merchantRaw": "イオン",
+      "amountYen": 7505,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0240",
+      "accountId": "b-card",
+      "date": "2026-03-13",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4144,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0241",
+      "accountId": "b-card-family",
+      "date": "2026-03-13",
+      "merchantRaw": "西友",
+      "amountYen": 5387,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0242",
+      "accountId": "b-card-family",
+      "date": "2026-03-13",
+      "merchantRaw": "西友",
+      "amountYen": 7109,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0243",
+      "accountId": "b-card",
+      "date": "2026-03-14",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 13933,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0244",
+      "accountId": "b-card-family",
+      "date": "2026-03-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0245",
+      "accountId": "b-card",
+      "date": "2026-03-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 12949,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0246",
+      "accountId": "b-card-family",
+      "date": "2026-03-17",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 689,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0247",
+      "accountId": "b-bank",
+      "date": "2026-03-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 7066,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0248",
+      "accountId": "b-card",
+      "date": "2026-03-18",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5253,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0249",
+      "accountId": "b-card",
+      "date": "2026-03-18",
+      "merchantRaw": "イオン",
+      "amountYen": 3362,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0250",
+      "accountId": "b-card",
+      "date": "2026-03-18",
+      "merchantRaw": "イオン",
+      "amountYen": 8967,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0251",
+      "accountId": "b-card-family",
+      "date": "2026-03-19",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 4343,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0252",
+      "accountId": "b-card-family",
+      "date": "2026-03-19",
+      "merchantRaw": "西友",
+      "amountYen": 7266,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0253",
+      "accountId": "b-card-family",
+      "date": "2026-03-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0254",
+      "accountId": "b-card-family",
+      "date": "2026-03-21",
+      "merchantRaw": "西友",
+      "amountYen": 2067,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0255",
+      "accountId": "b-bank",
+      "date": "2026-03-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 10846,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0256",
+      "accountId": "b-card-family",
+      "date": "2026-03-22",
+      "merchantRaw": "西友",
+      "amountYen": 5895,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0257",
+      "accountId": "b-card-family",
+      "date": "2026-03-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0258",
+      "accountId": "b-card-family",
+      "date": "2026-03-25",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 938,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0259",
+      "accountId": "b-card-family",
+      "date": "2026-03-25",
+      "merchantRaw": "西友",
+      "amountYen": 2643,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0260",
+      "accountId": "b-card",
+      "date": "2026-03-26",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4345,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0261",
+      "accountId": "b-bank",
+      "date": "2026-03-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0262",
+      "accountId": "b-bank",
+      "date": "2026-03-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0263",
+      "accountId": "b-card",
+      "date": "2026-03-27",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 14315,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0264",
+      "accountId": "b-card",
+      "date": "2026-03-28",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4877,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0265",
+      "accountId": "b-card",
+      "date": "2026-03-31",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10592,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0266",
+      "accountId": "b-card",
+      "date": "2026-04-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0267",
+      "accountId": "b-card",
+      "date": "2026-04-02",
+      "merchantRaw": "イオン",
+      "amountYen": 7901,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0268",
+      "accountId": "b-card",
+      "date": "2026-04-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0269",
+      "accountId": "b-card",
+      "date": "2026-04-03",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1697,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0270",
+      "accountId": "b-card",
+      "date": "2026-04-03",
+      "merchantRaw": "イオン",
+      "amountYen": 7771,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0271",
+      "accountId": "b-card-family",
+      "date": "2026-04-03",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1176,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0272",
+      "accountId": "b-card",
+      "date": "2026-04-05",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3370,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0273",
+      "accountId": "b-card-family",
+      "date": "2026-04-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 740,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0274",
+      "accountId": "b-card",
+      "date": "2026-04-06",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2983,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0275",
+      "accountId": "b-card",
+      "date": "2026-04-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0276",
+      "accountId": "b-card",
+      "date": "2026-04-08",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1401,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0277",
+      "accountId": "b-card",
+      "date": "2026-04-08",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1956,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0278",
+      "accountId": "b-card-family",
+      "date": "2026-04-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0279",
+      "accountId": "b-bank",
+      "date": "2026-04-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0280",
+      "accountId": "b-card-family",
+      "date": "2026-04-10",
+      "merchantRaw": "西友",
+      "amountYen": 2643,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0281",
+      "accountId": "b-card",
+      "date": "2026-04-11",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 12470,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0282",
+      "accountId": "b-card-family",
+      "date": "2026-04-11",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 787,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0283",
+      "accountId": "b-card-family",
+      "date": "2026-04-11",
+      "merchantRaw": "西友",
+      "amountYen": 4161,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0284",
+      "accountId": "b-card-family",
+      "date": "2026-04-13",
+      "merchantRaw": "西友",
+      "amountYen": 2155,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0285",
+      "accountId": "b-card-family",
+      "date": "2026-04-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0286",
+      "accountId": "b-card",
+      "date": "2026-04-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 13362,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0287",
+      "accountId": "b-card",
+      "date": "2026-04-17",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3451,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0288",
+      "accountId": "b-bank",
+      "date": "2026-04-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6633,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0289",
+      "accountId": "b-card",
+      "date": "2026-04-19",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5685,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0290",
+      "accountId": "b-card",
+      "date": "2026-04-19",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6606,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0291",
+      "accountId": "b-card",
+      "date": "2026-04-19",
+      "merchantRaw": "イオン",
+      "amountYen": 8321,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0292",
+      "accountId": "b-card",
+      "date": "2026-04-19",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3103,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0293",
+      "accountId": "b-card",
+      "date": "2026-04-21",
+      "merchantRaw": "イオン",
+      "amountYen": 6200,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0294",
+      "accountId": "b-card",
+      "date": "2026-04-21",
+      "merchantRaw": "イオン",
+      "amountYen": 7941,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0295",
+      "accountId": "b-card",
+      "date": "2026-04-21",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4499,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0296",
+      "accountId": "b-card",
+      "date": "2026-04-21",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2676,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0297",
+      "accountId": "b-card-family",
+      "date": "2026-04-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0298",
+      "accountId": "b-bank",
+      "date": "2026-04-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 10492,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0299",
+      "accountId": "b-card-family",
+      "date": "2026-04-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0300",
+      "accountId": "b-card",
+      "date": "2026-04-26",
+      "merchantRaw": "イオン",
+      "amountYen": 10792,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0301",
+      "accountId": "b-card",
+      "date": "2026-04-26",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 891,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0302",
+      "accountId": "b-bank",
+      "date": "2026-04-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0303",
+      "accountId": "b-bank",
+      "date": "2026-04-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0304",
+      "accountId": "b-card-family",
+      "date": "2026-04-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1067,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0305",
+      "accountId": "b-card",
+      "date": "2026-04-29",
+      "merchantRaw": "イオン",
+      "amountYen": 5886,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0306",
+      "accountId": "b-card-family",
+      "date": "2026-04-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1129,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0307",
+      "accountId": "b-card-family",
+      "date": "2026-04-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1401,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0308",
+      "accountId": "b-card",
+      "date": "2026-04-30",
+      "merchantRaw": "イオン",
+      "amountYen": 11309,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0309",
+      "accountId": "b-card-family",
+      "date": "2026-04-30",
+      "merchantRaw": "西友",
+      "amountYen": 8888,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0310",
+      "accountId": "b-card",
+      "date": "2026-05-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0311",
+      "accountId": "b-card",
+      "date": "2026-05-01",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4460,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0312",
+      "accountId": "b-card",
+      "date": "2026-05-02",
+      "merchantRaw": "イオン",
+      "amountYen": 6509,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0313",
+      "accountId": "b-card",
+      "date": "2026-05-02",
+      "merchantRaw": "イオン",
+      "amountYen": 9502,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0314",
+      "accountId": "b-card-family",
+      "date": "2026-05-02",
+      "merchantRaw": "西友",
+      "amountYen": 6320,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0315",
+      "accountId": "b-card",
+      "date": "2026-05-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0316",
+      "accountId": "b-card-family",
+      "date": "2026-05-03",
+      "merchantRaw": "西友",
+      "amountYen": 5587,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0317",
+      "accountId": "b-card-family",
+      "date": "2026-05-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 371,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0318",
+      "accountId": "b-card",
+      "date": "2026-05-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0319",
+      "accountId": "b-card-family",
+      "date": "2026-05-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0320",
+      "accountId": "b-card-family",
+      "date": "2026-05-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 823,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0321",
+      "accountId": "b-bank",
+      "date": "2026-05-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0322",
+      "accountId": "b-card",
+      "date": "2026-05-11",
+      "merchantRaw": "イオン",
+      "amountYen": 9199,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0323",
+      "accountId": "b-card-family",
+      "date": "2026-05-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0324",
+      "accountId": "b-card",
+      "date": "2026-05-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 13553,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0325",
+      "accountId": "b-card",
+      "date": "2026-05-16",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4069,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0326",
+      "accountId": "b-card",
+      "date": "2026-05-16",
+      "merchantRaw": "イオン",
+      "amountYen": 10842,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0327",
+      "accountId": "b-card-family",
+      "date": "2026-05-16",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 7414,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0328",
+      "accountId": "b-bank",
+      "date": "2026-05-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 7103,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0329",
+      "accountId": "b-card",
+      "date": "2026-05-18",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5614,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0330",
+      "accountId": "b-card",
+      "date": "2026-05-18",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6216,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0331",
+      "accountId": "b-card",
+      "date": "2026-05-20",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1281,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0332",
+      "accountId": "b-card-family",
+      "date": "2026-05-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0333",
+      "accountId": "b-bank",
+      "date": "2026-05-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 10471,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0334",
+      "accountId": "b-card-family",
+      "date": "2026-05-23",
+      "merchantRaw": "西友",
+      "amountYen": 2550,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0335",
+      "accountId": "b-card",
+      "date": "2026-05-25",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 4421,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0336",
+      "accountId": "b-card-family",
+      "date": "2026-05-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0337",
+      "accountId": "b-card-family",
+      "date": "2026-05-25",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1357,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0338",
+      "accountId": "b-card-family",
+      "date": "2026-05-25",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 5049,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0339",
+      "accountId": "b-bank",
+      "date": "2026-05-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0340",
+      "accountId": "b-bank",
+      "date": "2026-05-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0341",
+      "accountId": "b-card",
+      "date": "2026-05-27",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5162,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0342",
+      "accountId": "b-card",
+      "date": "2026-05-28",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 13518,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0343",
+      "accountId": "b-card-family",
+      "date": "2026-05-28",
+      "merchantRaw": "西友",
+      "amountYen": 6398,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0344",
+      "accountId": "b-card",
+      "date": "2026-05-29",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8996,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0345",
+      "accountId": "b-card",
+      "date": "2026-05-31",
+      "merchantRaw": "イオン",
+      "amountYen": 11526,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0346",
+      "accountId": "b-card",
+      "date": "2026-05-31",
+      "merchantRaw": "イオン",
+      "amountYen": 11677,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0347",
+      "accountId": "b-card-family",
+      "date": "2026-05-31",
+      "merchantRaw": "西友",
+      "amountYen": 4107,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0348",
+      "accountId": "b-card",
+      "date": "2026-06-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0349",
+      "accountId": "b-card-family",
+      "date": "2026-06-02",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 2223,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0350",
+      "accountId": "b-card",
+      "date": "2026-06-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0351",
+      "accountId": "b-card-family",
+      "date": "2026-06-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1311,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0352",
+      "accountId": "b-card",
+      "date": "2026-06-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0353",
+      "accountId": "b-card",
+      "date": "2026-06-07",
+      "merchantRaw": "イオン",
+      "amountYen": 9422,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0354",
+      "accountId": "b-card-family",
+      "date": "2026-06-07",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 896,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0355",
+      "accountId": "b-card-family",
+      "date": "2026-06-07",
+      "merchantRaw": "西友",
+      "amountYen": 2157,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0356",
+      "accountId": "b-card-family",
+      "date": "2026-06-07",
+      "merchantRaw": "西友",
+      "amountYen": 5436,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0357",
+      "accountId": "b-card",
+      "date": "2026-06-09",
+      "merchantRaw": "イオン",
+      "amountYen": 6043,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0358",
+      "accountId": "b-card-family",
+      "date": "2026-06-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0359",
+      "accountId": "b-bank",
+      "date": "2026-06-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0360",
+      "accountId": "b-card",
+      "date": "2026-06-13",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4516,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0361",
+      "accountId": "b-card",
+      "date": "2026-06-13",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2937,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0362",
+      "accountId": "b-card-family",
+      "date": "2026-06-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0363",
+      "accountId": "b-card-family",
+      "date": "2026-06-14",
+      "merchantRaw": "西友",
+      "amountYen": 3941,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0364",
+      "accountId": "b-card",
+      "date": "2026-06-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 14069,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0365",
+      "accountId": "b-card",
+      "date": "2026-06-16",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4947,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0366",
+      "accountId": "b-card",
+      "date": "2026-06-16",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1984,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0367",
+      "accountId": "b-card",
+      "date": "2026-06-17",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1374,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0368",
+      "accountId": "b-bank",
+      "date": "2026-06-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6928,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0369",
+      "accountId": "b-card-family",
+      "date": "2026-06-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1118,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0370",
+      "accountId": "b-card",
+      "date": "2026-06-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1176,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0371",
+      "accountId": "b-card",
+      "date": "2026-06-20",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 2515,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0372",
+      "accountId": "b-card-family",
+      "date": "2026-06-20",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 3672,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0373",
+      "accountId": "b-card-family",
+      "date": "2026-06-20",
+      "merchantRaw": "西友",
+      "amountYen": 8003,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0374",
+      "accountId": "b-card",
+      "date": "2026-06-21",
+      "merchantRaw": "イオン",
+      "amountYen": 7614,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0375",
+      "accountId": "b-card-family",
+      "date": "2026-06-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0376",
+      "accountId": "b-bank",
+      "date": "2026-06-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 10239,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0377",
+      "accountId": "b-card",
+      "date": "2026-06-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1876,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0378",
+      "accountId": "b-card",
+      "date": "2026-06-22",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0379",
+      "accountId": "b-card",
+      "date": "2026-06-22",
+      "merchantRaw": "イオン",
+      "amountYen": 3010,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0380",
+      "accountId": "b-card-family",
+      "date": "2026-06-22",
+      "merchantRaw": "西友",
+      "amountYen": 4627,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0381",
+      "accountId": "b-card-family",
+      "date": "2026-06-23",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 448,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0382",
+      "accountId": "b-card",
+      "date": "2026-06-24",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6776,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0383",
+      "accountId": "b-card-family",
+      "date": "2026-06-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0384",
+      "accountId": "b-bank",
+      "date": "2026-06-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0385",
+      "accountId": "b-bank",
+      "date": "2026-06-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0386",
+      "accountId": "b-card",
+      "date": "2026-06-28",
+      "merchantRaw": "イオン",
+      "amountYen": 8553,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0387",
+      "accountId": "b-card",
+      "date": "2026-06-29",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3047,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0388",
+      "accountId": "b-card",
+      "date": "2026-06-29",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2868,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0389",
+      "accountId": "b-card",
+      "date": "2026-06-30",
+      "merchantRaw": "イオン",
+      "amountYen": 4208,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0390",
+      "accountId": "b-card",
+      "date": "2026-07-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 13262,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0391",
+      "accountId": "b-card",
+      "date": "2026-07-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0392",
+      "accountId": "b-card",
+      "date": "2026-07-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0393",
+      "accountId": "b-card-family",
+      "date": "2026-07-03",
+      "merchantRaw": "西友",
+      "amountYen": 7343,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0394",
+      "accountId": "b-card",
+      "date": "2026-07-05",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4902,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0395",
+      "accountId": "b-card",
+      "date": "2026-07-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0396",
+      "accountId": "b-card-family",
+      "date": "2026-07-07",
+      "merchantRaw": "西友",
+      "amountYen": 5892,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0397",
+      "accountId": "b-card",
+      "date": "2026-07-09",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6515,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0398",
+      "accountId": "b-card",
+      "date": "2026-07-09",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3117,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0399",
+      "accountId": "b-card-family",
+      "date": "2026-07-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0400",
+      "accountId": "b-bank",
+      "date": "2026-07-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0401",
+      "accountId": "b-card-family",
+      "date": "2026-07-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 388,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0402",
+      "accountId": "b-card-family",
+      "date": "2026-07-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1494,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0403",
+      "accountId": "b-card",
+      "date": "2026-07-11",
+      "merchantRaw": "イオン",
+      "amountYen": 5638,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0404",
+      "accountId": "b-card",
+      "date": "2026-07-12",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3433,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0405",
+      "accountId": "b-card",
+      "date": "2026-07-14",
+      "merchantRaw": "イオン",
+      "amountYen": 3752,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0406",
+      "accountId": "b-card-family",
+      "date": "2026-07-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0407",
+      "accountId": "b-card",
+      "date": "2026-07-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 13590,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0408",
+      "accountId": "b-card-family",
+      "date": "2026-07-15",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 5104,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0409",
+      "accountId": "b-bank",
+      "date": "2026-07-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6585,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0410",
+      "accountId": "b-card-family",
+      "date": "2026-07-18",
+      "merchantRaw": "西友",
+      "amountYen": 7712,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0411",
+      "accountId": "b-card",
+      "date": "2026-07-19",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10448,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0412",
+      "accountId": "b-card-family",
+      "date": "2026-07-19",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 800,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0413",
+      "accountId": "b-card",
+      "date": "2026-07-20",
+      "merchantRaw": "イオン",
+      "amountYen": 5606,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0414",
+      "accountId": "b-card-family",
+      "date": "2026-07-20",
+      "merchantRaw": "西友",
+      "amountYen": 2260,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0415",
+      "accountId": "b-card-family",
+      "date": "2026-07-20",
+      "merchantRaw": "西友",
+      "amountYen": 3603,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0416",
+      "accountId": "b-card",
+      "date": "2026-07-21",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3573,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0417",
+      "accountId": "b-card-family",
+      "date": "2026-07-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0418",
+      "accountId": "b-bank",
+      "date": "2026-07-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 9869,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0419",
+      "accountId": "b-card",
+      "date": "2026-07-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3211,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0420",
+      "accountId": "b-card",
+      "date": "2026-07-22",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 2566,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0421",
+      "accountId": "b-card-family",
+      "date": "2026-07-22",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 2680,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0422",
+      "accountId": "b-card",
+      "date": "2026-07-23",
+      "merchantRaw": "イオン",
+      "amountYen": 7396,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0423",
+      "accountId": "b-card",
+      "date": "2026-07-23",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3172,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0424",
+      "accountId": "b-card",
+      "date": "2026-07-25",
+      "merchantRaw": "イオン",
+      "amountYen": 6643,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0425",
+      "accountId": "b-card",
+      "date": "2026-07-25",
+      "merchantRaw": "イオン",
+      "amountYen": 9371,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0426",
+      "accountId": "b-card-family",
+      "date": "2026-07-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0427",
+      "accountId": "b-bank",
+      "date": "2026-07-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0428",
+      "accountId": "b-bank",
+      "date": "2026-07-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0429",
+      "accountId": "b-card",
+      "date": "2026-07-28",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5202,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0430",
+      "accountId": "b-card",
+      "date": "2026-07-29",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4453,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0431",
+      "accountId": "b-card-family",
+      "date": "2026-07-30",
+      "merchantRaw": "西友",
+      "amountYen": 2695,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0432",
+      "accountId": "b-card",
+      "date": "2026-07-31",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9526,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0433",
+      "accountId": "b-card-family",
+      "date": "2026-07-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 830,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0434",
+      "accountId": "b-card",
+      "date": "2026-08-01",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4850,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0435",
+      "accountId": "b-card",
+      "date": "2026-08-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0436",
+      "accountId": "b-card",
+      "date": "2026-08-02",
+      "merchantRaw": "イオン",
+      "amountYen": 10049,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0437",
+      "accountId": "b-card-family",
+      "date": "2026-08-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 781,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0438",
+      "accountId": "b-card",
+      "date": "2026-08-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0439",
+      "accountId": "b-card",
+      "date": "2026-08-04",
+      "merchantRaw": "イオン",
+      "amountYen": 7848,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0440",
+      "accountId": "b-card",
+      "date": "2026-08-04",
+      "merchantRaw": "イオン",
+      "amountYen": 11790,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0441",
+      "accountId": "b-card-family",
+      "date": "2026-08-05",
+      "merchantRaw": "西友",
+      "amountYen": 3130,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0442",
+      "accountId": "b-card",
+      "date": "2026-08-06",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4352,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0443",
+      "accountId": "b-card-family",
+      "date": "2026-08-06",
+      "merchantRaw": "西友",
+      "amountYen": 8273,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0444",
+      "accountId": "b-card",
+      "date": "2026-08-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6552,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0445",
+      "accountId": "b-card",
+      "date": "2026-08-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0446",
+      "accountId": "b-card",
+      "date": "2026-08-07",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0447",
+      "accountId": "b-card-family",
+      "date": "2026-08-07",
+      "merchantRaw": "西友",
+      "amountYen": 7291,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0448",
+      "accountId": "b-card",
+      "date": "2026-08-09",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 4639,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0449",
+      "accountId": "b-card-family",
+      "date": "2026-08-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0450",
+      "accountId": "b-card-family",
+      "date": "2026-08-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 831,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0451",
+      "accountId": "b-bank",
+      "date": "2026-08-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0452",
+      "accountId": "b-card",
+      "date": "2026-08-11",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 13843,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0453",
+      "accountId": "b-card",
+      "date": "2026-08-13",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3448,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0454",
+      "accountId": "b-card",
+      "date": "2026-08-14",
+      "merchantRaw": "イオン",
+      "amountYen": 5376,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0455",
+      "accountId": "b-card-family",
+      "date": "2026-08-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0456",
+      "accountId": "b-card-family",
+      "date": "2026-08-14",
+      "merchantRaw": "西友",
+      "amountYen": 5039,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0457",
+      "accountId": "b-card",
+      "date": "2026-08-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 13670,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0458",
+      "accountId": "b-card",
+      "date": "2026-08-15",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1279,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0459",
+      "accountId": "b-bank",
+      "date": "2026-08-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6870,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0460",
+      "accountId": "b-card",
+      "date": "2026-08-18",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 930,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0461",
+      "accountId": "b-card-family",
+      "date": "2026-08-18",
+      "merchantRaw": "西友",
+      "amountYen": 7168,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0462",
+      "accountId": "b-card",
+      "date": "2026-08-19",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2297,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0463",
+      "accountId": "b-card",
+      "date": "2026-08-19",
+      "merchantRaw": "イオン",
+      "amountYen": 9031,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0464",
+      "accountId": "b-card",
+      "date": "2026-08-20",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5439,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0465",
+      "accountId": "b-card-family",
+      "date": "2026-08-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 726,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0466",
+      "accountId": "b-card",
+      "date": "2026-08-21",
+      "merchantRaw": "イオン",
+      "amountYen": 4389,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0467",
+      "accountId": "b-card-family",
+      "date": "2026-08-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0468",
+      "accountId": "b-bank",
+      "date": "2026-08-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 9250,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0469",
+      "accountId": "b-card-family",
+      "date": "2026-08-23",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 475,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0470",
+      "accountId": "b-card-family",
+      "date": "2026-08-23",
+      "merchantRaw": "西友",
+      "amountYen": 7103,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0471",
+      "accountId": "b-card-family",
+      "date": "2026-08-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0472",
+      "accountId": "b-card",
+      "date": "2026-08-26",
+      "merchantRaw": "イオン",
+      "amountYen": 9412,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0473",
+      "accountId": "b-bank",
+      "date": "2026-08-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0474",
+      "accountId": "b-bank",
+      "date": "2026-08-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0475",
+      "accountId": "b-card",
+      "date": "2026-08-27",
+      "merchantRaw": "イオン",
+      "amountYen": 10138,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0476",
+      "accountId": "b-card",
+      "date": "2026-08-27",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1480,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0477",
+      "accountId": "b-card-family",
+      "date": "2026-08-30",
+      "merchantRaw": "西友",
+      "amountYen": 3094,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0478",
+      "accountId": "b-card",
+      "date": "2026-08-31",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4634,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0479",
+      "accountId": "b-card-family",
+      "date": "2026-08-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1279,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0480",
+      "accountId": "b-card",
+      "date": "2026-09-01",
+      "merchantRaw": "NIKKEI",
+      "amountYen": 4277,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0481",
+      "accountId": "b-card-family",
+      "date": "2026-09-01",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 411,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0482",
+      "accountId": "b-card-family",
+      "date": "2026-09-01",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 624,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0483",
+      "accountId": "b-card-family",
+      "date": "2026-09-01",
+      "merchantRaw": "西友",
+      "amountYen": 4036,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0484",
+      "accountId": "b-card",
+      "date": "2026-09-02",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9524,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0485",
+      "accountId": "b-card-family",
+      "date": "2026-09-02",
+      "merchantRaw": "西友",
+      "amountYen": 7436,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0486",
+      "accountId": "b-card",
+      "date": "2026-09-03",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0487",
+      "accountId": "b-card-family",
+      "date": "2026-09-04",
+      "merchantRaw": "西友",
+      "amountYen": 4174,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0488",
+      "accountId": "b-card-family",
+      "date": "2026-09-06",
+      "merchantRaw": "西友",
+      "amountYen": 7655,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0489",
+      "accountId": "b-card",
+      "date": "2026-09-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6800,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0490",
+      "accountId": "b-card",
+      "date": "2026-09-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 12409,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0491",
+      "accountId": "b-card",
+      "date": "2026-09-07",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 2290,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0492",
+      "accountId": "b-card",
+      "date": "2026-09-08",
+      "merchantRaw": "イオン",
+      "amountYen": 5448,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0493",
+      "accountId": "b-card-family",
+      "date": "2026-09-08",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 392,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0494",
+      "accountId": "b-card-family",
+      "date": "2026-09-09",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0495",
+      "accountId": "b-bank",
+      "date": "2026-09-10",
+      "merchantRaw": "保育料 モック市",
+      "amountYen": 36000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0496",
+      "accountId": "b-card-family",
+      "date": "2026-09-11",
+      "merchantRaw": "西友",
+      "amountYen": 4449,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0497",
+      "accountId": "b-card",
+      "date": "2026-09-12",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5487,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0498",
+      "accountId": "b-card-family",
+      "date": "2026-09-14",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0499",
+      "accountId": "b-card-family",
+      "date": "2026-09-14",
+      "merchantRaw": "西友",
+      "amountYen": 5188,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0500",
+      "accountId": "b-card",
+      "date": "2026-09-15",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 13380,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0501",
+      "accountId": "b-card-family",
+      "date": "2026-09-15",
+      "merchantRaw": "西友",
+      "amountYen": 2515,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0502",
+      "accountId": "b-card",
+      "date": "2026-09-16",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9259,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0503",
+      "accountId": "b-bank",
+      "date": "2026-09-18",
+      "merchantRaw": "東京ガス",
+      "amountYen": 6430,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0504",
+      "accountId": "b-card-family",
+      "date": "2026-09-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1476,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0505",
+      "accountId": "b-card",
+      "date": "2026-09-20",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5233,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0506",
+      "accountId": "b-card",
+      "date": "2026-09-20",
+      "merchantRaw": "イオン",
+      "amountYen": 6376,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0507",
+      "accountId": "b-card",
+      "date": "2026-09-20",
+      "merchantRaw": "イオン",
+      "amountYen": 7763,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0508",
+      "accountId": "b-card",
+      "date": "2026-09-20",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 1843,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0509",
+      "accountId": "b-card",
+      "date": "2026-09-21",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 13031,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0510",
+      "accountId": "b-card-family",
+      "date": "2026-09-21",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0511",
+      "accountId": "b-bank",
+      "date": "2026-09-22",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 8805,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0512",
+      "accountId": "b-card",
+      "date": "2026-09-23",
+      "merchantRaw": "イオン",
+      "amountYen": 2595,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0513",
+      "accountId": "b-card",
+      "date": "2026-09-24",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5030,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0514",
+      "accountId": "b-card",
+      "date": "2026-09-24",
+      "merchantRaw": "マツモトキヨシ",
+      "amountYen": 3802,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0515",
+      "accountId": "b-card-family",
+      "date": "2026-09-25",
+      "merchantRaw": "DISNEY PLUS",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0516",
+      "accountId": "b-card",
+      "date": "2026-09-26",
+      "merchantRaw": "イオン",
+      "amountYen": 4808,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0517",
+      "accountId": "b-bank",
+      "date": "2026-09-27",
+      "merchantRaw": "モック生命保険",
+      "amountYen": 8400,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0518",
+      "accountId": "b-bank",
+      "date": "2026-09-27",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "amountYen": 102000,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0519",
+      "accountId": "b-card",
+      "date": "2026-09-27",
+      "merchantRaw": "イオン",
+      "amountYen": 7295,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0520",
+      "accountId": "b-card",
+      "date": "2026-09-27",
+      "merchantRaw": "イオン",
+      "amountYen": 11253,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0521",
+      "accountId": "b-card",
+      "date": "2026-09-29",
+      "merchantRaw": "イオン",
+      "amountYen": 6034,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0522",
+      "accountId": "b-card",
+      "date": "2026-09-30",
+      "merchantRaw": "イオン",
+      "amountYen": 9125,
+      "currency": "JPY"
+    },
+    {
+      "id": "b-0523",
+      "accountId": "b-card",
+      "date": "2026-09-30",
+      "merchantRaw": "サイゼリヤ",
+      "amountYen": 3952,
+      "currency": "JPY"
+    }
+  ],
+  "usageAnswers": [
+    {
+      "month": "2026-07",
+      "recurringKey": "netflix-self",
+      "answer": "using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "netflix-self",
+      "answer": "using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "netflix-self",
+      "answer": "using"
+    },
+    {
+      "month": "2026-07",
+      "recurringKey": "netflix-family",
+      "answer": "using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "netflix-family",
+      "answer": "using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "netflix-family",
+      "answer": "using"
+    }
+  ],
+  "cancellations": []
+}

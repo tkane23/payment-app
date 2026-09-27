@@ -1,0 +1,2227 @@
+{
+  "persona": "C",
+  "label": "節約意識の高いカード多持ち",
+  "description": "30〜50代、ポイント活動に関心。カードを複数保有し、キャリアやカードの特典を意識している。",
+  "period": {
+    "from": "2025-10-01",
+    "to": "2026-09-30"
+  },
+  "accounts": [
+    {
+      "id": "c-bank",
+      "name": "モックネット銀行 普通預金",
+      "kind": "bank"
+    },
+    {
+      "id": "c-card-1",
+      "name": "モックカード1",
+      "kind": "credit_card"
+    },
+    {
+      "id": "c-card-2",
+      "name": "モックカード2",
+      "kind": "credit_card"
+    },
+    {
+      "id": "c-card-3",
+      "name": "モックカード3",
+      "kind": "credit_card"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "c-0001",
+      "accountId": "c-card-2",
+      "date": "2025-10-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0002",
+      "accountId": "c-card-1",
+      "date": "2025-10-02",
+      "merchantRaw": "ライフ",
+      "amountYen": 3893,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0003",
+      "accountId": "c-card-2",
+      "date": "2025-10-05",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6027,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0004",
+      "accountId": "c-card-3",
+      "date": "2025-10-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0005",
+      "accountId": "c-card-3",
+      "date": "2025-10-07",
+      "merchantRaw": "ドトール",
+      "amountYen": 347,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0006",
+      "accountId": "c-card-1",
+      "date": "2025-10-10",
+      "merchantRaw": "ライフ",
+      "amountYen": 4871,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0007",
+      "accountId": "c-card-3",
+      "date": "2025-10-10",
+      "merchantRaw": "ドトール",
+      "amountYen": 539,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0008",
+      "accountId": "c-card-1",
+      "date": "2025-10-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7800,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0009",
+      "accountId": "c-card-1",
+      "date": "2025-10-16",
+      "merchantRaw": "ライフ",
+      "amountYen": 1716,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0010",
+      "accountId": "c-card-2",
+      "date": "2025-10-18",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2985,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0011",
+      "accountId": "c-card-2",
+      "date": "2025-10-18",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6884,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0012",
+      "accountId": "c-card-1",
+      "date": "2025-10-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0013",
+      "accountId": "c-card-3",
+      "date": "2025-10-21",
+      "merchantRaw": "ドトール",
+      "amountYen": 800,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0014",
+      "accountId": "c-card-2",
+      "date": "2025-10-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11854,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0015",
+      "accountId": "c-card-1",
+      "date": "2025-10-23",
+      "merchantRaw": "ライフ",
+      "amountYen": 4786,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0016",
+      "accountId": "c-card-3",
+      "date": "2025-10-24",
+      "merchantRaw": "ドトール",
+      "amountYen": 854,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0017",
+      "accountId": "c-bank",
+      "date": "2025-10-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6200,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0018",
+      "accountId": "c-card-3",
+      "date": "2025-10-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 725,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0019",
+      "accountId": "c-card-2",
+      "date": "2025-10-28",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5830,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0020",
+      "accountId": "c-card-1",
+      "date": "2025-10-30",
+      "merchantRaw": "ライフ",
+      "amountYen": 2689,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0021",
+      "accountId": "c-card-1",
+      "date": "2025-10-31",
+      "merchantRaw": "ライフ",
+      "amountYen": 4337,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0022",
+      "accountId": "c-card-2",
+      "date": "2025-11-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0023",
+      "accountId": "c-card-2",
+      "date": "2025-11-02",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10984,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0024",
+      "accountId": "c-card-1",
+      "date": "2025-11-05",
+      "merchantRaw": "ライフ",
+      "amountYen": 1769,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0025",
+      "accountId": "c-card-3",
+      "date": "2025-11-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0026",
+      "accountId": "c-card-1",
+      "date": "2025-11-06",
+      "merchantRaw": "ライフ",
+      "amountYen": 5448,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0027",
+      "accountId": "c-card-2",
+      "date": "2025-11-06",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5466,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0028",
+      "accountId": "c-card-2",
+      "date": "2025-11-07",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4401,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0029",
+      "accountId": "c-card-1",
+      "date": "2025-11-08",
+      "merchantRaw": "ライフ",
+      "amountYen": 3694,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0030",
+      "accountId": "c-card-2",
+      "date": "2025-11-08",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4900,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0031",
+      "accountId": "c-card-3",
+      "date": "2025-11-10",
+      "merchantRaw": "ドトール",
+      "amountYen": 809,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0032",
+      "accountId": "c-card-1",
+      "date": "2025-11-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7796,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0033",
+      "accountId": "c-card-2",
+      "date": "2025-11-12",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5887,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0034",
+      "accountId": "c-card-3",
+      "date": "2025-11-17",
+      "merchantRaw": "ヨドバシカメラ",
+      "amountYen": 13775,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0035",
+      "accountId": "c-card-1",
+      "date": "2025-11-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0036",
+      "accountId": "c-card-3",
+      "date": "2025-11-21",
+      "merchantRaw": "ドトール",
+      "amountYen": 890,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0037",
+      "accountId": "c-card-3",
+      "date": "2025-11-22",
+      "merchantRaw": "ドトール",
+      "amountYen": 393,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0038",
+      "accountId": "c-card-2",
+      "date": "2025-11-23",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4506,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0039",
+      "accountId": "c-bank",
+      "date": "2025-11-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6628,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0040",
+      "accountId": "c-card-1",
+      "date": "2025-11-25",
+      "merchantRaw": "ライフ",
+      "amountYen": 3580,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0041",
+      "accountId": "c-card-3",
+      "date": "2025-11-26",
+      "merchantRaw": "ドトール",
+      "amountYen": 400,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0042",
+      "accountId": "c-card-1",
+      "date": "2025-11-28",
+      "merchantRaw": "ライフ",
+      "amountYen": 5151,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0043",
+      "accountId": "c-card-2",
+      "date": "2025-11-28",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9593,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0044",
+      "accountId": "c-card-3",
+      "date": "2025-11-28",
+      "merchantRaw": "ドトール",
+      "amountYen": 822,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0045",
+      "accountId": "c-card-1",
+      "date": "2025-11-29",
+      "merchantRaw": "ライフ",
+      "amountYen": 5517,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0046",
+      "accountId": "c-card-2",
+      "date": "2025-12-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0047",
+      "accountId": "c-card-1",
+      "date": "2025-12-03",
+      "merchantRaw": "ライフ",
+      "amountYen": 3843,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0048",
+      "accountId": "c-card-2",
+      "date": "2025-12-03",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11001,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0049",
+      "accountId": "c-card-3",
+      "date": "2025-12-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0050",
+      "accountId": "c-card-3",
+      "date": "2025-12-05",
+      "merchantRaw": "ドトール",
+      "amountYen": 414,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0051",
+      "accountId": "c-card-3",
+      "date": "2025-12-08",
+      "merchantRaw": "ドトール",
+      "amountYen": 366,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0052",
+      "accountId": "c-card-3",
+      "date": "2025-12-08",
+      "merchantRaw": "ドトール",
+      "amountYen": 776,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0053",
+      "accountId": "c-card-1",
+      "date": "2025-12-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7926,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0054",
+      "accountId": "c-card-1",
+      "date": "2025-12-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 4370,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0055",
+      "accountId": "c-card-2",
+      "date": "2025-12-14",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4970,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0056",
+      "accountId": "c-card-3",
+      "date": "2025-12-14",
+      "merchantRaw": "ドトール",
+      "amountYen": 828,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0057",
+      "accountId": "c-card-2",
+      "date": "2025-12-16",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1011,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0058",
+      "accountId": "c-card-1",
+      "date": "2025-12-18",
+      "merchantRaw": "ライフ",
+      "amountYen": 2679,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0059",
+      "accountId": "c-card-3",
+      "date": "2025-12-18",
+      "merchantRaw": "ドトール",
+      "amountYen": 817,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0060",
+      "accountId": "c-card-1",
+      "date": "2025-12-19",
+      "merchantRaw": "ライフ",
+      "amountYen": 5615,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0061",
+      "accountId": "c-card-1",
+      "date": "2025-12-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0062",
+      "accountId": "c-card-1",
+      "date": "2025-12-20",
+      "merchantRaw": "ライフ",
+      "amountYen": 5416,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0063",
+      "accountId": "c-card-1",
+      "date": "2025-12-20",
+      "merchantRaw": "ライフ",
+      "amountYen": 5596,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0064",
+      "accountId": "c-card-2",
+      "date": "2025-12-20",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4563,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0065",
+      "accountId": "c-card-1",
+      "date": "2025-12-23",
+      "merchantRaw": "ライフ",
+      "amountYen": 4160,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0066",
+      "accountId": "c-bank",
+      "date": "2025-12-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6950,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0067",
+      "accountId": "c-card-2",
+      "date": "2025-12-25",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11179,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0068",
+      "accountId": "c-card-1",
+      "date": "2025-12-31",
+      "merchantRaw": "ライフ",
+      "amountYen": 2178,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0069",
+      "accountId": "c-card-2",
+      "date": "2026-01-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0070",
+      "accountId": "c-card-1",
+      "date": "2026-01-02",
+      "merchantRaw": "ライフ",
+      "amountYen": 5825,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0071",
+      "accountId": "c-card-2",
+      "date": "2026-01-02",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7298,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0072",
+      "accountId": "c-card-3",
+      "date": "2026-01-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0073",
+      "accountId": "c-card-2",
+      "date": "2026-01-06",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11229,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0074",
+      "accountId": "c-card-2",
+      "date": "2026-01-10",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6911,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0075",
+      "accountId": "c-card-1",
+      "date": "2026-01-11",
+      "merchantRaw": "ライフ",
+      "amountYen": 2331,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0076",
+      "accountId": "c-card-1",
+      "date": "2026-01-11",
+      "merchantRaw": "ライフ",
+      "amountYen": 4913,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0077",
+      "accountId": "c-card-1",
+      "date": "2026-01-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7922,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0078",
+      "accountId": "c-card-1",
+      "date": "2026-01-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 3304,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0079",
+      "accountId": "c-card-2",
+      "date": "2026-01-14",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5463,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0080",
+      "accountId": "c-card-1",
+      "date": "2026-01-18",
+      "merchantRaw": "ライフ",
+      "amountYen": 1910,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0081",
+      "accountId": "c-card-1",
+      "date": "2026-01-19",
+      "merchantRaw": "ライフ",
+      "amountYen": 1531,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0082",
+      "accountId": "c-card-1",
+      "date": "2026-01-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0083",
+      "accountId": "c-card-3",
+      "date": "2026-01-20",
+      "merchantRaw": "NINTENDO",
+      "amountYen": 2400,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0084",
+      "accountId": "c-card-1",
+      "date": "2026-01-21",
+      "merchantRaw": "ライフ",
+      "amountYen": 5481,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0085",
+      "accountId": "c-card-1",
+      "date": "2026-01-24",
+      "merchantRaw": "ライフ",
+      "amountYen": 5769,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0086",
+      "accountId": "c-bank",
+      "date": "2026-01-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6780,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0087",
+      "accountId": "c-card-3",
+      "date": "2026-01-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 566,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0088",
+      "accountId": "c-card-3",
+      "date": "2026-01-28",
+      "merchantRaw": "ドトール",
+      "amountYen": 569,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0089",
+      "accountId": "c-card-2",
+      "date": "2026-01-29",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8481,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0090",
+      "accountId": "c-card-3",
+      "date": "2026-01-31",
+      "merchantRaw": "ドトール",
+      "amountYen": 313,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0091",
+      "accountId": "c-card-2",
+      "date": "2026-02-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0092",
+      "accountId": "c-card-2",
+      "date": "2026-02-04",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4267,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0093",
+      "accountId": "c-card-3",
+      "date": "2026-02-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0094",
+      "accountId": "c-card-1",
+      "date": "2026-02-07",
+      "merchantRaw": "ライフ",
+      "amountYen": 5939,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0095",
+      "accountId": "c-card-3",
+      "date": "2026-02-07",
+      "merchantRaw": "ドトール",
+      "amountYen": 764,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0096",
+      "accountId": "c-card-1",
+      "date": "2026-02-08",
+      "merchantRaw": "ライフ",
+      "amountYen": 4937,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0097",
+      "accountId": "c-card-1",
+      "date": "2026-02-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7705,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0098",
+      "accountId": "c-card-1",
+      "date": "2026-02-13",
+      "merchantRaw": "ライフ",
+      "amountYen": 1847,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0099",
+      "accountId": "c-card-3",
+      "date": "2026-02-13",
+      "merchantRaw": "ヨドバシカメラ",
+      "amountYen": 20435,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0100",
+      "accountId": "c-card-2",
+      "date": "2026-02-14",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4392,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0101",
+      "accountId": "c-card-1",
+      "date": "2026-02-15",
+      "merchantRaw": "ライフ",
+      "amountYen": 1568,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0102",
+      "accountId": "c-card-1",
+      "date": "2026-02-15",
+      "merchantRaw": "ライフ",
+      "amountYen": 5939,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0103",
+      "accountId": "c-card-2",
+      "date": "2026-02-17",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6651,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0104",
+      "accountId": "c-card-3",
+      "date": "2026-02-17",
+      "merchantRaw": "ドトール",
+      "amountYen": 898,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0105",
+      "accountId": "c-card-1",
+      "date": "2026-02-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0106",
+      "accountId": "c-card-1",
+      "date": "2026-02-20",
+      "merchantRaw": "ライフ",
+      "amountYen": 2541,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0107",
+      "accountId": "c-card-2",
+      "date": "2026-02-21",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4218,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0108",
+      "accountId": "c-card-3",
+      "date": "2026-02-21",
+      "merchantRaw": "ドトール",
+      "amountYen": 647,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0109",
+      "accountId": "c-bank",
+      "date": "2026-02-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6792,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0110",
+      "accountId": "c-card-1",
+      "date": "2026-02-25",
+      "merchantRaw": "ライフ",
+      "amountYen": 5896,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0111",
+      "accountId": "c-card-2",
+      "date": "2026-03-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5098,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0112",
+      "accountId": "c-card-2",
+      "date": "2026-03-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0113",
+      "accountId": "c-card-2",
+      "date": "2026-03-03",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4209,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0114",
+      "accountId": "c-card-2",
+      "date": "2026-03-03",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6163,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0115",
+      "accountId": "c-card-3",
+      "date": "2026-03-04",
+      "merchantRaw": "ヨドバシカメラ",
+      "amountYen": 25619,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0116",
+      "accountId": "c-card-2",
+      "date": "2026-03-05",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6564,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0117",
+      "accountId": "c-card-3",
+      "date": "2026-03-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0118",
+      "accountId": "c-card-1",
+      "date": "2026-03-09",
+      "merchantRaw": "ライフ",
+      "amountYen": 2641,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0119",
+      "accountId": "c-card-1",
+      "date": "2026-03-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 8039,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0120",
+      "accountId": "c-card-1",
+      "date": "2026-03-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 2657,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0121",
+      "accountId": "c-card-1",
+      "date": "2026-03-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 3043,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0122",
+      "accountId": "c-card-2",
+      "date": "2026-03-12",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 5900,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0123",
+      "accountId": "c-card-2",
+      "date": "2026-03-12",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6754,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0124",
+      "accountId": "c-card-3",
+      "date": "2026-03-12",
+      "merchantRaw": "ドトール",
+      "amountYen": 408,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0125",
+      "accountId": "c-card-3",
+      "date": "2026-03-13",
+      "merchantRaw": "ドトール",
+      "amountYen": 727,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0126",
+      "accountId": "c-card-3",
+      "date": "2026-03-13",
+      "merchantRaw": "ドトール",
+      "amountYen": 856,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0127",
+      "accountId": "c-card-3",
+      "date": "2026-03-14",
+      "merchantRaw": "ドトール",
+      "amountYen": 332,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0128",
+      "accountId": "c-card-3",
+      "date": "2026-03-15",
+      "merchantRaw": "ドトール",
+      "amountYen": 515,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0129",
+      "accountId": "c-card-2",
+      "date": "2026-03-17",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1620,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0130",
+      "accountId": "c-card-1",
+      "date": "2026-03-18",
+      "merchantRaw": "ライフ",
+      "amountYen": 4894,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0131",
+      "accountId": "c-card-1",
+      "date": "2026-03-19",
+      "merchantRaw": "ライフ",
+      "amountYen": 3050,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0132",
+      "accountId": "c-card-1",
+      "date": "2026-03-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0133",
+      "accountId": "c-card-2",
+      "date": "2026-03-21",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2714,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0134",
+      "accountId": "c-card-3",
+      "date": "2026-03-24",
+      "merchantRaw": "ドトール",
+      "amountYen": 786,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0135",
+      "accountId": "c-bank",
+      "date": "2026-03-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6637,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0136",
+      "accountId": "c-card-2",
+      "date": "2026-04-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0137",
+      "accountId": "c-card-2",
+      "date": "2026-04-04",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4983,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0138",
+      "accountId": "c-card-3",
+      "date": "2026-04-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0139",
+      "accountId": "c-card-2",
+      "date": "2026-04-09",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11841,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0140",
+      "accountId": "c-card-2",
+      "date": "2026-04-10",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4206,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0141",
+      "accountId": "c-card-3",
+      "date": "2026-04-10",
+      "merchantRaw": "ドトール",
+      "amountYen": 357,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0142",
+      "accountId": "c-card-1",
+      "date": "2026-04-11",
+      "merchantRaw": "ライフ",
+      "amountYen": 3688,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0143",
+      "accountId": "c-card-1",
+      "date": "2026-04-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7650,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0144",
+      "accountId": "c-card-3",
+      "date": "2026-04-14",
+      "merchantRaw": "ドトール",
+      "amountYen": 685,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0145",
+      "accountId": "c-card-1",
+      "date": "2026-04-16",
+      "merchantRaw": "ライフ",
+      "amountYen": 2043,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0146",
+      "accountId": "c-card-2",
+      "date": "2026-04-18",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6444,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0147",
+      "accountId": "c-card-3",
+      "date": "2026-04-18",
+      "merchantRaw": "ドトール",
+      "amountYen": 387,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0148",
+      "accountId": "c-card-1",
+      "date": "2026-04-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0149",
+      "accountId": "c-card-1",
+      "date": "2026-04-20",
+      "merchantRaw": "ライフ",
+      "amountYen": 5440,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0150",
+      "accountId": "c-card-2",
+      "date": "2026-04-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2307,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0151",
+      "accountId": "c-card-1",
+      "date": "2026-04-23",
+      "merchantRaw": "ライフ",
+      "amountYen": 4461,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0152",
+      "accountId": "c-bank",
+      "date": "2026-04-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6802,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0153",
+      "accountId": "c-card-3",
+      "date": "2026-04-25",
+      "merchantRaw": "ヨドバシカメラ",
+      "amountYen": 4510,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0154",
+      "accountId": "c-card-1",
+      "date": "2026-04-26",
+      "merchantRaw": "ライフ",
+      "amountYen": 1965,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0155",
+      "accountId": "c-card-1",
+      "date": "2026-04-29",
+      "merchantRaw": "ライフ",
+      "amountYen": 1724,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0156",
+      "accountId": "c-card-3",
+      "date": "2026-04-29",
+      "merchantRaw": "ドトール",
+      "amountYen": 596,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0157",
+      "accountId": "c-card-2",
+      "date": "2026-04-30",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6647,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0158",
+      "accountId": "c-card-2",
+      "date": "2026-05-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6567,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0159",
+      "accountId": "c-card-2",
+      "date": "2026-05-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0160",
+      "accountId": "c-card-3",
+      "date": "2026-05-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0161",
+      "accountId": "c-card-2",
+      "date": "2026-05-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1001,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0162",
+      "accountId": "c-card-2",
+      "date": "2026-05-08",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4501,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0163",
+      "accountId": "c-card-3",
+      "date": "2026-05-09",
+      "merchantRaw": "ドトール",
+      "amountYen": 873,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0164",
+      "accountId": "c-card-3",
+      "date": "2026-05-11",
+      "merchantRaw": "ヨドバシカメラ",
+      "amountYen": 16771,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0165",
+      "accountId": "c-card-1",
+      "date": "2026-05-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7685,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0166",
+      "accountId": "c-card-2",
+      "date": "2026-05-13",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4015,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0167",
+      "accountId": "c-card-3",
+      "date": "2026-05-13",
+      "merchantRaw": "ドトール",
+      "amountYen": 429,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0168",
+      "accountId": "c-card-3",
+      "date": "2026-05-13",
+      "merchantRaw": "ドトール",
+      "amountYen": 437,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0169",
+      "accountId": "c-card-1",
+      "date": "2026-05-14",
+      "merchantRaw": "ライフ",
+      "amountYen": 3251,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0170",
+      "accountId": "c-card-1",
+      "date": "2026-05-14",
+      "merchantRaw": "ライフ",
+      "amountYen": 4996,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0171",
+      "accountId": "c-card-1",
+      "date": "2026-05-14",
+      "merchantRaw": "ライフ",
+      "amountYen": 5079,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0172",
+      "accountId": "c-card-3",
+      "date": "2026-05-18",
+      "merchantRaw": "ドトール",
+      "amountYen": 888,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0173",
+      "accountId": "c-card-2",
+      "date": "2026-05-19",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3094,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0174",
+      "accountId": "c-card-1",
+      "date": "2026-05-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0175",
+      "accountId": "c-card-1",
+      "date": "2026-05-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0176",
+      "accountId": "c-card-1",
+      "date": "2026-05-20",
+      "merchantRaw": "ライフ",
+      "amountYen": 3903,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0177",
+      "accountId": "c-card-3",
+      "date": "2026-05-21",
+      "merchantRaw": "ドトール",
+      "amountYen": 410,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0178",
+      "accountId": "c-card-1",
+      "date": "2026-05-22",
+      "merchantRaw": "ライフ",
+      "amountYen": 5065,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0179",
+      "accountId": "c-card-2",
+      "date": "2026-05-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8381,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0180",
+      "accountId": "c-card-1",
+      "date": "2026-05-24",
+      "merchantRaw": "ライフ",
+      "amountYen": 2225,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0181",
+      "accountId": "c-card-1",
+      "date": "2026-05-24",
+      "merchantRaw": "ライフ",
+      "amountYen": 3944,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0182",
+      "accountId": "c-bank",
+      "date": "2026-05-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6605,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0183",
+      "accountId": "c-card-1",
+      "date": "2026-05-25",
+      "merchantRaw": "ライフ",
+      "amountYen": 2463,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0184",
+      "accountId": "c-card-3",
+      "date": "2026-05-28",
+      "merchantRaw": "ドトール",
+      "amountYen": 796,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0185",
+      "accountId": "c-card-2",
+      "date": "2026-06-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0186",
+      "accountId": "c-card-3",
+      "date": "2026-06-01",
+      "merchantRaw": "ドトール",
+      "amountYen": 680,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0187",
+      "accountId": "c-card-2",
+      "date": "2026-06-02",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4155,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0188",
+      "accountId": "c-card-1",
+      "date": "2026-06-05",
+      "merchantRaw": "ライフ",
+      "amountYen": 1765,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0189",
+      "accountId": "c-card-3",
+      "date": "2026-06-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0190",
+      "accountId": "c-card-1",
+      "date": "2026-06-06",
+      "merchantRaw": "ライフ",
+      "amountYen": 5464,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0191",
+      "accountId": "c-card-1",
+      "date": "2026-06-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7744,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0192",
+      "accountId": "c-card-2",
+      "date": "2026-06-15",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 9895,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0193",
+      "accountId": "c-card-3",
+      "date": "2026-06-15",
+      "merchantRaw": "ドトール",
+      "amountYen": 878,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0194",
+      "accountId": "c-card-1",
+      "date": "2026-06-17",
+      "merchantRaw": "ライフ",
+      "amountYen": 2185,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0195",
+      "accountId": "c-card-1",
+      "date": "2026-06-17",
+      "merchantRaw": "ライフ",
+      "amountYen": 5295,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0196",
+      "accountId": "c-card-2",
+      "date": "2026-06-17",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7272,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0197",
+      "accountId": "c-card-1",
+      "date": "2026-06-19",
+      "merchantRaw": "ライフ",
+      "amountYen": 4937,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0198",
+      "accountId": "c-card-2",
+      "date": "2026-06-19",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5225,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0199",
+      "accountId": "c-card-1",
+      "date": "2026-06-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0200",
+      "accountId": "c-card-1",
+      "date": "2026-06-23",
+      "merchantRaw": "ライフ",
+      "amountYen": 1539,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0201",
+      "accountId": "c-card-3",
+      "date": "2026-06-23",
+      "merchantRaw": "ドトール",
+      "amountYen": 862,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0202",
+      "accountId": "c-bank",
+      "date": "2026-06-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6455,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0203",
+      "accountId": "c-card-2",
+      "date": "2026-06-25",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6893,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0204",
+      "accountId": "c-card-3",
+      "date": "2026-06-27",
+      "merchantRaw": "ドトール",
+      "amountYen": 648,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0205",
+      "accountId": "c-card-3",
+      "date": "2026-06-29",
+      "merchantRaw": "ドトール",
+      "amountYen": 832,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0206",
+      "accountId": "c-card-2",
+      "date": "2026-07-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0207",
+      "accountId": "c-card-2",
+      "date": "2026-07-01",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5839,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0208",
+      "accountId": "c-card-1",
+      "date": "2026-07-03",
+      "merchantRaw": "ライフ",
+      "amountYen": 2677,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0209",
+      "accountId": "c-card-3",
+      "date": "2026-07-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0210",
+      "accountId": "c-card-2",
+      "date": "2026-07-06",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5818,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0211",
+      "accountId": "c-card-2",
+      "date": "2026-07-10",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5602,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0212",
+      "accountId": "c-card-3",
+      "date": "2026-07-10",
+      "merchantRaw": "ドトール",
+      "amountYen": 312,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0213",
+      "accountId": "c-card-1",
+      "date": "2026-07-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7708,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0214",
+      "accountId": "c-card-1",
+      "date": "2026-07-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 4644,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0215",
+      "accountId": "c-card-1",
+      "date": "2026-07-19",
+      "merchantRaw": "ライフ",
+      "amountYen": 3154,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0216",
+      "accountId": "c-card-1",
+      "date": "2026-07-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0217",
+      "accountId": "c-card-2",
+      "date": "2026-07-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2630,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0218",
+      "accountId": "c-card-1",
+      "date": "2026-07-21",
+      "merchantRaw": "ライフ",
+      "amountYen": 2638,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0219",
+      "accountId": "c-card-2",
+      "date": "2026-07-21",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 8106,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0220",
+      "accountId": "c-card-3",
+      "date": "2026-07-22",
+      "merchantRaw": "ドトール",
+      "amountYen": 549,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0221",
+      "accountId": "c-bank",
+      "date": "2026-07-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6117,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0222",
+      "accountId": "c-card-1",
+      "date": "2026-07-25",
+      "merchantRaw": "ライフ",
+      "amountYen": 5834,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0223",
+      "accountId": "c-card-3",
+      "date": "2026-07-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 346,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0224",
+      "accountId": "c-card-3",
+      "date": "2026-07-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 368,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0225",
+      "accountId": "c-card-3",
+      "date": "2026-07-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 543,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0226",
+      "accountId": "c-card-2",
+      "date": "2026-07-26",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10053,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0227",
+      "accountId": "c-card-1",
+      "date": "2026-07-28",
+      "merchantRaw": "ライフ",
+      "amountYen": 4335,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0228",
+      "accountId": "c-card-1",
+      "date": "2026-07-28",
+      "merchantRaw": "ライフ",
+      "amountYen": 4574,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0229",
+      "accountId": "c-card-1",
+      "date": "2026-07-31",
+      "merchantRaw": "ライフ",
+      "amountYen": 5650,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0230",
+      "accountId": "c-card-3",
+      "date": "2026-07-31",
+      "merchantRaw": "ドトール",
+      "amountYen": 637,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0231",
+      "accountId": "c-card-2",
+      "date": "2026-08-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0232",
+      "accountId": "c-card-3",
+      "date": "2026-08-01",
+      "merchantRaw": "ドトール",
+      "amountYen": 817,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0233",
+      "accountId": "c-card-2",
+      "date": "2026-08-02",
+      "merchantRaw": "ENEOS",
+      "amountYen": 4704,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0234",
+      "accountId": "c-card-3",
+      "date": "2026-08-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0235",
+      "accountId": "c-card-3",
+      "date": "2026-08-05",
+      "merchantRaw": "ドトール",
+      "amountYen": 339,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0236",
+      "accountId": "c-card-2",
+      "date": "2026-08-08",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 11164,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0237",
+      "accountId": "c-card-3",
+      "date": "2026-08-08",
+      "merchantRaw": "ドトール",
+      "amountYen": 699,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0238",
+      "accountId": "c-card-1",
+      "date": "2026-08-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7625,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0239",
+      "accountId": "c-card-1",
+      "date": "2026-08-12",
+      "merchantRaw": "ライフ",
+      "amountYen": 5822,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0240",
+      "accountId": "c-card-2",
+      "date": "2026-08-14",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5292,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0241",
+      "accountId": "c-card-1",
+      "date": "2026-08-17",
+      "merchantRaw": "ライフ",
+      "amountYen": 4318,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0242",
+      "accountId": "c-card-1",
+      "date": "2026-08-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0243",
+      "accountId": "c-card-2",
+      "date": "2026-08-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 10788,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0244",
+      "accountId": "c-card-1",
+      "date": "2026-08-21",
+      "merchantRaw": "ライフ",
+      "amountYen": 4043,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0245",
+      "accountId": "c-card-1",
+      "date": "2026-08-24",
+      "merchantRaw": "ライフ",
+      "amountYen": 5957,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0246",
+      "accountId": "c-card-3",
+      "date": "2026-08-24",
+      "merchantRaw": "ドトール",
+      "amountYen": 792,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0247",
+      "accountId": "c-bank",
+      "date": "2026-08-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6082,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0248",
+      "accountId": "c-card-1",
+      "date": "2026-08-25",
+      "merchantRaw": "ライフ",
+      "amountYen": 2340,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0249",
+      "accountId": "c-card-3",
+      "date": "2026-08-25",
+      "merchantRaw": "ドトール",
+      "amountYen": 844,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0250",
+      "accountId": "c-card-1",
+      "date": "2026-08-31",
+      "merchantRaw": "ライフ",
+      "amountYen": 5378,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0251",
+      "accountId": "c-card-3",
+      "date": "2026-08-31",
+      "merchantRaw": "ドトール",
+      "amountYen": 347,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0252",
+      "accountId": "c-card-2",
+      "date": "2026-09-01",
+      "merchantRaw": "ANYTIME FITNESS",
+      "amountYen": 7678,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0253",
+      "accountId": "c-card-3",
+      "date": "2026-09-02",
+      "merchantRaw": "ドトール",
+      "amountYen": 392,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0254",
+      "accountId": "c-card-3",
+      "date": "2026-09-05",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "amountYen": 1280,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0255",
+      "accountId": "c-card-2",
+      "date": "2026-09-06",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3556,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0256",
+      "accountId": "c-card-1",
+      "date": "2026-09-07",
+      "merchantRaw": "ライフ",
+      "amountYen": 2409,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0257",
+      "accountId": "c-card-1",
+      "date": "2026-09-08",
+      "merchantRaw": "ライフ",
+      "amountYen": 3081,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0258",
+      "accountId": "c-card-2",
+      "date": "2026-09-08",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5365,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0259",
+      "accountId": "c-card-2",
+      "date": "2026-09-09",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6628,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0260",
+      "accountId": "c-card-1",
+      "date": "2026-09-12",
+      "merchantRaw": "DOCOMO",
+      "amountYen": 7799,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0261",
+      "accountId": "c-card-2",
+      "date": "2026-09-15",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5013,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0262",
+      "accountId": "c-card-2",
+      "date": "2026-09-15",
+      "merchantRaw": "ENEOS",
+      "amountYen": 5886,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0263",
+      "accountId": "c-card-3",
+      "date": "2026-09-15",
+      "merchantRaw": "ドトール",
+      "amountYen": 438,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0264",
+      "accountId": "c-card-1",
+      "date": "2026-09-17",
+      "merchantRaw": "ライフ",
+      "amountYen": 2680,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0265",
+      "accountId": "c-card-2",
+      "date": "2026-09-18",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2185,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0266",
+      "accountId": "c-card-1",
+      "date": "2026-09-20",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0267",
+      "accountId": "c-card-1",
+      "date": "2026-09-22",
+      "merchantRaw": "ライフ",
+      "amountYen": 4057,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0268",
+      "accountId": "c-bank",
+      "date": "2026-09-25",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 6162,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0269",
+      "accountId": "c-card-3",
+      "date": "2026-09-26",
+      "merchantRaw": "ドトール",
+      "amountYen": 528,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0270",
+      "accountId": "c-card-3",
+      "date": "2026-09-27",
+      "merchantRaw": "ドトール",
+      "amountYen": 824,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0271",
+      "accountId": "c-card-2",
+      "date": "2026-09-28",
+      "merchantRaw": "ENEOS",
+      "amountYen": 6951,
+      "currency": "JPY"
+    },
+    {
+      "id": "c-0272",
+      "accountId": "c-card-1",
+      "date": "2026-09-29",
+      "merchantRaw": "ライフ",
+      "amountYen": 5441,
+      "currency": "JPY"
+    }
+  ],
+  "usageAnswers": [
+    {
+      "month": "2026-07",
+      "recurringKey": "gym",
+      "answer": "using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "gym",
+      "answer": "using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "gym",
+      "answer": "using"
+    }
+  ],
+  "cancellations": []
+}
