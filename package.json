@@ -1,0 +1,28 @@
+{
+  "name": "payment-app",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.6.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "typecheck": "turbo run typecheck typecheck:repo",
+    "lint": "turbo run lint lint:repo",
+    "test": "turbo run test test:repo",
+    "typecheck:repo": "tsc -p tsconfig.json",
+    "lint:repo": "eslint tests eslint.config.mjs vitest.config.ts",
+    "test:repo": "vitest run"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.19.0",
+    "eslint": "^10.11.0",
+    "turbo": "^2.11.4",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.70.1",
+    "vitest": "^5.0.2",
+    "yaml": "^2.9.1"
+  }
+}

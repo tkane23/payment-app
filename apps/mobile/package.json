@@ -1,0 +1,13 @@
+{
+  "name": "@payment-app/mobile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@payment-app/core": "workspace:*"
+  }
+}

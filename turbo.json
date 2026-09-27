@@ -1,0 +1,15 @@
+{
+  "$schema": "https://turborepo.com/schema.json",
+  "tasks": {
+    "typecheck": {},
+    "lint": {},
+    "test": {},
+    "//#typecheck:repo": {},
+    "//#lint:repo": {},
+    "//#test:repo": {},
+    "dev": {
+      "cache": false,
+      "persistent": true
+    }
+  }
+}

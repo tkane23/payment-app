@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.turbo/
+*.log
+
+# 秘密情報はコミットしない
+.env
+.env.*
+!.env.example
