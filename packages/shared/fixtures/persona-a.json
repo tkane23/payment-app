@@ -1,0 +1,3780 @@
+{
+  "persona": "A",
+  "label": "サブスク過多の単身",
+  "description": "20代後半〜30代、会社員、一人暮らし。動画・音楽・クラウド・アプリ課金など10件前後のサブスク。無料トライアルの解約忘れが多い。",
+  "period": {
+    "from": "2025-10-01",
+    "to": "2026-09-30"
+  },
+  "accounts": [
+    {
+      "id": "a-bank",
+      "name": "モック銀行 普通預金",
+      "kind": "bank"
+    },
+    {
+      "id": "a-card",
+      "name": "モックカード",
+      "kind": "credit_card"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "a-0001",
+      "accountId": "a-card",
+      "date": "2025-10-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0002",
+      "accountId": "a-card",
+      "date": "2025-10-01",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 499,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0003",
+      "accountId": "a-card",
+      "date": "2025-10-02",
+      "merchantRaw": "スターバックス",
+      "amountYen": 905,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0004",
+      "accountId": "a-card",
+      "date": "2025-10-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 748,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0005",
+      "accountId": "a-card",
+      "date": "2025-10-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 768,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0006",
+      "accountId": "a-card",
+      "date": "2025-10-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 941,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0007",
+      "accountId": "a-card",
+      "date": "2025-10-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1005,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0008",
+      "accountId": "a-card",
+      "date": "2025-10-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0009",
+      "accountId": "a-card",
+      "date": "2025-10-05",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1253,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0010",
+      "accountId": "a-card",
+      "date": "2025-10-06",
+      "merchantRaw": "ローソン",
+      "amountYen": 868,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0011",
+      "accountId": "a-card",
+      "date": "2025-10-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0012",
+      "accountId": "a-card",
+      "date": "2025-10-08",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2788,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0013",
+      "accountId": "a-card",
+      "date": "2025-10-09",
+      "merchantRaw": "ローソン",
+      "amountYen": 698,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0014",
+      "accountId": "a-card",
+      "date": "2025-10-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1535,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0015",
+      "accountId": "a-card",
+      "date": "2025-10-10",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2798,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0016",
+      "accountId": "a-card",
+      "date": "2025-10-11",
+      "merchantRaw": "ローソン",
+      "amountYen": 584,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0017",
+      "accountId": "a-card",
+      "date": "2025-10-12",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7477,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0018",
+      "accountId": "a-card",
+      "date": "2025-10-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0019",
+      "accountId": "a-card",
+      "date": "2025-10-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1261,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0020",
+      "accountId": "a-card",
+      "date": "2025-10-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0021",
+      "accountId": "a-card",
+      "date": "2025-10-15",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 403,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0022",
+      "accountId": "a-card",
+      "date": "2025-10-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0023",
+      "accountId": "a-card",
+      "date": "2025-10-19",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2671,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0024",
+      "accountId": "a-bank",
+      "date": "2025-10-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4800,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0025",
+      "accountId": "a-card",
+      "date": "2025-10-20",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1855,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0026",
+      "accountId": "a-card",
+      "date": "2025-10-21",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1079,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0027",
+      "accountId": "a-card",
+      "date": "2025-10-21",
+      "merchantRaw": "ローソン",
+      "amountYen": 250,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0028",
+      "accountId": "a-card",
+      "date": "2025-10-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0029",
+      "accountId": "a-card",
+      "date": "2025-10-24",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 584,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0030",
+      "accountId": "a-card",
+      "date": "2025-10-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0031",
+      "accountId": "a-card",
+      "date": "2025-10-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0032",
+      "accountId": "a-bank",
+      "date": "2025-10-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0033",
+      "accountId": "a-card",
+      "date": "2025-10-27",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 767,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0034",
+      "accountId": "a-card",
+      "date": "2025-10-28",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 2226,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0035",
+      "accountId": "a-card",
+      "date": "2025-10-28",
+      "merchantRaw": "ローソン",
+      "amountYen": 695,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0036",
+      "accountId": "a-card",
+      "date": "2025-10-29",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4435,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0037",
+      "accountId": "a-card",
+      "date": "2025-10-29",
+      "merchantRaw": "スターバックス",
+      "amountYen": 458,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0038",
+      "accountId": "a-card",
+      "date": "2025-11-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0039",
+      "accountId": "a-card",
+      "date": "2025-11-01",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0040",
+      "accountId": "a-card",
+      "date": "2025-11-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2471,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0041",
+      "accountId": "a-card",
+      "date": "2025-11-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1353,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0042",
+      "accountId": "a-card",
+      "date": "2025-11-03",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 457,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0043",
+      "accountId": "a-card",
+      "date": "2025-11-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 474,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0044",
+      "accountId": "a-card",
+      "date": "2025-11-04",
+      "merchantRaw": "ローソン",
+      "amountYen": 718,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0045",
+      "accountId": "a-card",
+      "date": "2025-11-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0046",
+      "accountId": "a-card",
+      "date": "2025-11-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 858,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0047",
+      "accountId": "a-card",
+      "date": "2025-11-05",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1528,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0048",
+      "accountId": "a-card",
+      "date": "2025-11-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3329,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0049",
+      "accountId": "a-card",
+      "date": "2025-11-07",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1420,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0050",
+      "accountId": "a-card",
+      "date": "2025-11-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0051",
+      "accountId": "a-card",
+      "date": "2025-11-08",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1793,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0052",
+      "accountId": "a-card",
+      "date": "2025-11-09",
+      "merchantRaw": "スターバックス",
+      "amountYen": 940,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0053",
+      "accountId": "a-card",
+      "date": "2025-11-11",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 1872,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0054",
+      "accountId": "a-card",
+      "date": "2025-11-11",
+      "merchantRaw": "ローソン",
+      "amountYen": 509,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0055",
+      "accountId": "a-card",
+      "date": "2025-11-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0056",
+      "accountId": "a-card",
+      "date": "2025-11-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 443,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0057",
+      "accountId": "a-card",
+      "date": "2025-11-13",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4187,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0058",
+      "accountId": "a-card",
+      "date": "2025-11-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0059",
+      "accountId": "a-card",
+      "date": "2025-11-17",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1627,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0060",
+      "accountId": "a-card",
+      "date": "2025-11-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0061",
+      "accountId": "a-card",
+      "date": "2025-11-19",
+      "merchantRaw": "ローソン",
+      "amountYen": 672,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0062",
+      "accountId": "a-bank",
+      "date": "2025-11-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4520,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0063",
+      "accountId": "a-card",
+      "date": "2025-11-21",
+      "merchantRaw": "ローソン",
+      "amountYen": 971,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0064",
+      "accountId": "a-card",
+      "date": "2025-11-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0065",
+      "accountId": "a-card",
+      "date": "2025-11-23",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 521,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0066",
+      "accountId": "a-card",
+      "date": "2025-11-24",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 657,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0067",
+      "accountId": "a-card",
+      "date": "2025-11-24",
+      "merchantRaw": "ローソン",
+      "amountYen": 997,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0068",
+      "accountId": "a-card",
+      "date": "2025-11-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0069",
+      "accountId": "a-card",
+      "date": "2025-11-25",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1150,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0070",
+      "accountId": "a-card",
+      "date": "2025-11-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0071",
+      "accountId": "a-bank",
+      "date": "2025-11-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0072",
+      "accountId": "a-card",
+      "date": "2025-11-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 983,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0073",
+      "accountId": "a-card",
+      "date": "2025-11-29",
+      "merchantRaw": "スターバックス",
+      "amountYen": 660,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0074",
+      "accountId": "a-card",
+      "date": "2025-11-29",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2497,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0075",
+      "accountId": "a-card",
+      "date": "2025-11-30",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3158,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0076",
+      "accountId": "a-card",
+      "date": "2025-12-01",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 5235,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0077",
+      "accountId": "a-card",
+      "date": "2025-12-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0078",
+      "accountId": "a-card",
+      "date": "2025-12-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1212,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0079",
+      "accountId": "a-card",
+      "date": "2025-12-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0080",
+      "accountId": "a-card",
+      "date": "2025-12-05",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1356,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0081",
+      "accountId": "a-card",
+      "date": "2025-12-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0082",
+      "accountId": "a-card",
+      "date": "2025-12-08",
+      "merchantRaw": "スターバックス",
+      "amountYen": 852,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0083",
+      "accountId": "a-card",
+      "date": "2025-12-08",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 3607,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0084",
+      "accountId": "a-card",
+      "date": "2025-12-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 957,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0085",
+      "accountId": "a-card",
+      "date": "2025-12-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0086",
+      "accountId": "a-card",
+      "date": "2025-12-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 526,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0087",
+      "accountId": "a-card",
+      "date": "2025-12-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1134,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0088",
+      "accountId": "a-card",
+      "date": "2025-12-12",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2822,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0089",
+      "accountId": "a-card",
+      "date": "2025-12-13",
+      "merchantRaw": "ローソン",
+      "amountYen": 442,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0090",
+      "accountId": "a-card",
+      "date": "2025-12-14",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1262,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0091",
+      "accountId": "a-card",
+      "date": "2025-12-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0092",
+      "accountId": "a-card",
+      "date": "2025-12-15",
+      "merchantRaw": "ローソン",
+      "amountYen": 828,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0093",
+      "accountId": "a-card",
+      "date": "2025-12-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0094",
+      "accountId": "a-card",
+      "date": "2025-12-18",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4807,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0095",
+      "accountId": "a-card",
+      "date": "2025-12-19",
+      "merchantRaw": "スターバックス",
+      "amountYen": 862,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0096",
+      "accountId": "a-bank",
+      "date": "2025-12-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4712,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0097",
+      "accountId": "a-card",
+      "date": "2025-12-20",
+      "merchantRaw": "スターバックス",
+      "amountYen": 825,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0098",
+      "accountId": "a-card",
+      "date": "2025-12-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 923,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0099",
+      "accountId": "a-card",
+      "date": "2025-12-21",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1408,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0100",
+      "accountId": "a-card",
+      "date": "2025-12-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0101",
+      "accountId": "a-card",
+      "date": "2025-12-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1341,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0102",
+      "accountId": "a-card",
+      "date": "2025-12-22",
+      "merchantRaw": "スターバックス",
+      "amountYen": 829,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0103",
+      "accountId": "a-card",
+      "date": "2025-12-24",
+      "merchantRaw": "ローソン",
+      "amountYen": 537,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0104",
+      "accountId": "a-card",
+      "date": "2025-12-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0105",
+      "accountId": "a-card",
+      "date": "2025-12-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0106",
+      "accountId": "a-bank",
+      "date": "2025-12-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0107",
+      "accountId": "a-card",
+      "date": "2025-12-27",
+      "merchantRaw": "スターバックス",
+      "amountYen": 663,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0108",
+      "accountId": "a-card",
+      "date": "2025-12-27",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1539,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0109",
+      "accountId": "a-card",
+      "date": "2025-12-28",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0110",
+      "accountId": "a-card",
+      "date": "2025-12-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 441,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0111",
+      "accountId": "a-card",
+      "date": "2025-12-30",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 769,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0112",
+      "accountId": "a-card",
+      "date": "2026-01-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0113",
+      "accountId": "a-card",
+      "date": "2026-01-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2301,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0114",
+      "accountId": "a-card",
+      "date": "2026-01-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3049,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0115",
+      "accountId": "a-card",
+      "date": "2026-01-02",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3095,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0116",
+      "accountId": "a-card",
+      "date": "2026-01-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1094,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0117",
+      "accountId": "a-card",
+      "date": "2026-01-04",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1149,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0118",
+      "accountId": "a-card",
+      "date": "2026-01-04",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1721,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0119",
+      "accountId": "a-card",
+      "date": "2026-01-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0120",
+      "accountId": "a-card",
+      "date": "2026-01-05",
+      "merchantRaw": "スターバックス",
+      "amountYen": 587,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0121",
+      "accountId": "a-card",
+      "date": "2026-01-06",
+      "merchantRaw": "ローソン",
+      "amountYen": 626,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0122",
+      "accountId": "a-card",
+      "date": "2026-01-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0123",
+      "accountId": "a-card",
+      "date": "2026-01-08",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 962,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0124",
+      "accountId": "a-card",
+      "date": "2026-01-09",
+      "merchantRaw": "ローソン",
+      "amountYen": 1124,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0125",
+      "accountId": "a-card",
+      "date": "2026-01-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0126",
+      "accountId": "a-card",
+      "date": "2026-01-11",
+      "merchantRaw": "スターバックス",
+      "amountYen": 646,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0127",
+      "accountId": "a-card",
+      "date": "2026-01-11",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1004,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0128",
+      "accountId": "a-card",
+      "date": "2026-01-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0129",
+      "accountId": "a-card",
+      "date": "2026-01-13",
+      "merchantRaw": "ローソン",
+      "amountYen": 297,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0130",
+      "accountId": "a-card",
+      "date": "2026-01-14",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1925,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0131",
+      "accountId": "a-card",
+      "date": "2026-01-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0132",
+      "accountId": "a-card",
+      "date": "2026-01-15",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6695,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0133",
+      "accountId": "a-card",
+      "date": "2026-01-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0134",
+      "accountId": "a-card",
+      "date": "2026-01-19",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2652,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0135",
+      "accountId": "a-bank",
+      "date": "2026-01-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4743,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0136",
+      "accountId": "a-card",
+      "date": "2026-01-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 383,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0137",
+      "accountId": "a-card",
+      "date": "2026-01-20",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2857,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0138",
+      "accountId": "a-card",
+      "date": "2026-01-21",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 944,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0139",
+      "accountId": "a-card",
+      "date": "2026-01-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0140",
+      "accountId": "a-card",
+      "date": "2026-01-22",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4449,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0141",
+      "accountId": "a-card",
+      "date": "2026-01-23",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 1183,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0142",
+      "accountId": "a-card",
+      "date": "2026-01-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0143",
+      "accountId": "a-card",
+      "date": "2026-01-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0144",
+      "accountId": "a-bank",
+      "date": "2026-01-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0145",
+      "accountId": "a-card",
+      "date": "2026-01-27",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 901,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0146",
+      "accountId": "a-card",
+      "date": "2026-02-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0147",
+      "accountId": "a-card",
+      "date": "2026-02-03",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1986,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0148",
+      "accountId": "a-card",
+      "date": "2026-02-04",
+      "merchantRaw": "スターバックス",
+      "amountYen": 513,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0149",
+      "accountId": "a-card",
+      "date": "2026-02-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0150",
+      "accountId": "a-card",
+      "date": "2026-02-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 471,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0151",
+      "accountId": "a-card",
+      "date": "2026-02-05",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2213,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0152",
+      "accountId": "a-card",
+      "date": "2026-02-06",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 672,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0153",
+      "accountId": "a-card",
+      "date": "2026-02-06",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1272,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0154",
+      "accountId": "a-card",
+      "date": "2026-02-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0155",
+      "accountId": "a-card",
+      "date": "2026-02-08",
+      "merchantRaw": "ローソン",
+      "amountYen": 824,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0156",
+      "accountId": "a-card",
+      "date": "2026-02-09",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4661,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0157",
+      "accountId": "a-card",
+      "date": "2026-02-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0158",
+      "accountId": "a-card",
+      "date": "2026-02-11",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1120,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0159",
+      "accountId": "a-card",
+      "date": "2026-02-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0160",
+      "accountId": "a-card",
+      "date": "2026-02-13",
+      "merchantRaw": "ローソン",
+      "amountYen": 864,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0161",
+      "accountId": "a-card",
+      "date": "2026-02-14",
+      "merchantRaw": "ローソン",
+      "amountYen": 906,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0162",
+      "accountId": "a-card",
+      "date": "2026-02-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0163",
+      "accountId": "a-card",
+      "date": "2026-02-15",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 468,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0164",
+      "accountId": "a-card",
+      "date": "2026-02-16",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1356,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0165",
+      "accountId": "a-card",
+      "date": "2026-02-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0166",
+      "accountId": "a-card",
+      "date": "2026-02-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 904,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0167",
+      "accountId": "a-card",
+      "date": "2026-02-19",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1100,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0168",
+      "accountId": "a-card",
+      "date": "2026-02-19",
+      "merchantRaw": "ローソン",
+      "amountYen": 396,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0169",
+      "accountId": "a-bank",
+      "date": "2026-02-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4852,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0170",
+      "accountId": "a-card",
+      "date": "2026-02-20",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2892,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0171",
+      "accountId": "a-card",
+      "date": "2026-02-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1213,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0172",
+      "accountId": "a-card",
+      "date": "2026-02-21",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2249,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0173",
+      "accountId": "a-card",
+      "date": "2026-02-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0174",
+      "accountId": "a-card",
+      "date": "2026-02-22",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1521,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0175",
+      "accountId": "a-card",
+      "date": "2026-02-22",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2696,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0176",
+      "accountId": "a-card",
+      "date": "2026-02-23",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 895,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0177",
+      "accountId": "a-card",
+      "date": "2026-02-23",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2924,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0178",
+      "accountId": "a-card",
+      "date": "2026-02-23",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3270,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0179",
+      "accountId": "a-card",
+      "date": "2026-02-24",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 986,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0180",
+      "accountId": "a-card",
+      "date": "2026-02-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0181",
+      "accountId": "a-card",
+      "date": "2026-02-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0182",
+      "accountId": "a-bank",
+      "date": "2026-02-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0183",
+      "accountId": "a-card",
+      "date": "2026-03-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0184",
+      "accountId": "a-card",
+      "date": "2026-03-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2750,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0185",
+      "accountId": "a-card",
+      "date": "2026-03-01",
+      "merchantRaw": "ローソン",
+      "amountYen": 588,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0186",
+      "accountId": "a-card",
+      "date": "2026-03-02",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1054,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0187",
+      "accountId": "a-card",
+      "date": "2026-03-03",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 764,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0188",
+      "accountId": "a-card",
+      "date": "2026-03-04",
+      "merchantRaw": "スターバックス",
+      "amountYen": 984,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0189",
+      "accountId": "a-card",
+      "date": "2026-03-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1490,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0190",
+      "accountId": "a-card",
+      "date": "2026-03-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0191",
+      "accountId": "a-card",
+      "date": "2026-03-08",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1244,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0192",
+      "accountId": "a-card",
+      "date": "2026-03-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0193",
+      "accountId": "a-card",
+      "date": "2026-03-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 862,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0194",
+      "accountId": "a-card",
+      "date": "2026-03-11",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 838,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0195",
+      "accountId": "a-card",
+      "date": "2026-03-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0196",
+      "accountId": "a-card",
+      "date": "2026-03-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 998,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0197",
+      "accountId": "a-card",
+      "date": "2026-03-13",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3208,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0198",
+      "accountId": "a-card",
+      "date": "2026-03-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 875,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0199",
+      "accountId": "a-card",
+      "date": "2026-03-14",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2103,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0200",
+      "accountId": "a-card",
+      "date": "2026-03-14",
+      "merchantRaw": "ローソン",
+      "amountYen": 694,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0201",
+      "accountId": "a-card",
+      "date": "2026-03-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0202",
+      "accountId": "a-card",
+      "date": "2026-03-15",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2352,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0203",
+      "accountId": "a-card",
+      "date": "2026-03-16",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 400,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0204",
+      "accountId": "a-card",
+      "date": "2026-03-16",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1027,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0205",
+      "accountId": "a-card",
+      "date": "2026-03-16",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2624,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0206",
+      "accountId": "a-card",
+      "date": "2026-03-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0207",
+      "accountId": "a-card",
+      "date": "2026-03-18",
+      "merchantRaw": "ローソン",
+      "amountYen": 323,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0208",
+      "accountId": "a-card",
+      "date": "2026-03-19",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 2143,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0209",
+      "accountId": "a-bank",
+      "date": "2026-03-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4762,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0210",
+      "accountId": "a-card",
+      "date": "2026-03-21",
+      "merchantRaw": "スターバックス",
+      "amountYen": 546,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0211",
+      "accountId": "a-card",
+      "date": "2026-03-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0212",
+      "accountId": "a-card",
+      "date": "2026-03-22",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4147,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0213",
+      "accountId": "a-card",
+      "date": "2026-03-23",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1103,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0214",
+      "accountId": "a-card",
+      "date": "2026-03-23",
+      "merchantRaw": "ローソン",
+      "amountYen": 570,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0215",
+      "accountId": "a-card",
+      "date": "2026-03-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0216",
+      "accountId": "a-card",
+      "date": "2026-03-25",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2078,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0217",
+      "accountId": "a-card",
+      "date": "2026-03-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0218",
+      "accountId": "a-card",
+      "date": "2026-03-26",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 767,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0219",
+      "accountId": "a-card",
+      "date": "2026-03-26",
+      "merchantRaw": "ローソン",
+      "amountYen": 848,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0220",
+      "accountId": "a-bank",
+      "date": "2026-03-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0221",
+      "accountId": "a-card",
+      "date": "2026-03-27",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 393,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0222",
+      "accountId": "a-card",
+      "date": "2026-03-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 950,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0223",
+      "accountId": "a-card",
+      "date": "2026-03-30",
+      "merchantRaw": "ローソン",
+      "amountYen": 894,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0224",
+      "accountId": "a-card",
+      "date": "2026-03-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 365,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0225",
+      "accountId": "a-card",
+      "date": "2026-04-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0226",
+      "accountId": "a-card",
+      "date": "2026-04-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2532,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0227",
+      "accountId": "a-card",
+      "date": "2026-04-02",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1094,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0228",
+      "accountId": "a-card",
+      "date": "2026-04-03",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2717,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0229",
+      "accountId": "a-card",
+      "date": "2026-04-03",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4873,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0230",
+      "accountId": "a-card",
+      "date": "2026-04-04",
+      "merchantRaw": "スターバックス",
+      "amountYen": 517,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0231",
+      "accountId": "a-card",
+      "date": "2026-04-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0232",
+      "accountId": "a-card",
+      "date": "2026-04-05",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4241,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0233",
+      "accountId": "a-card",
+      "date": "2026-04-06",
+      "merchantRaw": "ローソン",
+      "amountYen": 1194,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0234",
+      "accountId": "a-card",
+      "date": "2026-04-07",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1228,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0235",
+      "accountId": "a-card",
+      "date": "2026-04-07",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3391,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0236",
+      "accountId": "a-card",
+      "date": "2026-04-08",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6828,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0237",
+      "accountId": "a-card",
+      "date": "2026-04-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0238",
+      "accountId": "a-card",
+      "date": "2026-04-09",
+      "merchantRaw": "スターバックス",
+      "amountYen": 685,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0239",
+      "accountId": "a-card",
+      "date": "2026-04-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 621,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0240",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0241",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 577,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0242",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 582,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0243",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2380,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0244",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3340,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0245",
+      "accountId": "a-card",
+      "date": "2026-04-10",
+      "merchantRaw": "ローソン",
+      "amountYen": 329,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0246",
+      "accountId": "a-card",
+      "date": "2026-04-12",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 3579,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0247",
+      "accountId": "a-card",
+      "date": "2026-04-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0248",
+      "accountId": "a-card",
+      "date": "2026-04-12",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3443,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0249",
+      "accountId": "a-card",
+      "date": "2026-04-14",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 337,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0250",
+      "accountId": "a-card",
+      "date": "2026-04-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0251",
+      "accountId": "a-card",
+      "date": "2026-04-15",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 937,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0252",
+      "accountId": "a-card",
+      "date": "2026-04-16",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1806,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0253",
+      "accountId": "a-card",
+      "date": "2026-04-16",
+      "merchantRaw": "ローソン",
+      "amountYen": 390,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0254",
+      "accountId": "a-card",
+      "date": "2026-04-17",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 838,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0255",
+      "accountId": "a-card",
+      "date": "2026-04-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0256",
+      "accountId": "a-card",
+      "date": "2026-04-19",
+      "merchantRaw": "ローソン",
+      "amountYen": 1046,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0257",
+      "accountId": "a-bank",
+      "date": "2026-04-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4909,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0258",
+      "accountId": "a-card",
+      "date": "2026-04-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0259",
+      "accountId": "a-card",
+      "date": "2026-04-22",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1039,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0260",
+      "accountId": "a-card",
+      "date": "2026-04-22",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 8297,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0261",
+      "accountId": "a-card",
+      "date": "2026-04-23",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 545,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0262",
+      "accountId": "a-card",
+      "date": "2026-04-23",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1674,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0263",
+      "accountId": "a-card",
+      "date": "2026-04-24",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 2840,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0264",
+      "accountId": "a-card",
+      "date": "2026-04-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0265",
+      "accountId": "a-card",
+      "date": "2026-04-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0266",
+      "accountId": "a-bank",
+      "date": "2026-04-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0267",
+      "accountId": "a-card",
+      "date": "2026-04-27",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1238,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0268",
+      "accountId": "a-card",
+      "date": "2026-04-29",
+      "merchantRaw": "スターバックス",
+      "amountYen": 748,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0269",
+      "accountId": "a-card",
+      "date": "2026-04-29",
+      "merchantRaw": "ローソン",
+      "amountYen": 918,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0270",
+      "accountId": "a-card",
+      "date": "2026-04-29",
+      "merchantRaw": "ローソン",
+      "amountYen": 1034,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0271",
+      "accountId": "a-card",
+      "date": "2026-05-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0272",
+      "accountId": "a-card",
+      "date": "2026-05-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0273",
+      "accountId": "a-card",
+      "date": "2026-05-05",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1346,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0274",
+      "accountId": "a-card",
+      "date": "2026-05-06",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2212,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0275",
+      "accountId": "a-card",
+      "date": "2026-05-07",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2438,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0276",
+      "accountId": "a-card",
+      "date": "2026-05-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0277",
+      "accountId": "a-card",
+      "date": "2026-05-09",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 2516,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0278",
+      "accountId": "a-card",
+      "date": "2026-05-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0279",
+      "accountId": "a-card",
+      "date": "2026-05-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3067,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0280",
+      "accountId": "a-card",
+      "date": "2026-05-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0281",
+      "accountId": "a-card",
+      "date": "2026-05-12",
+      "merchantRaw": "スターバックス",
+      "amountYen": 837,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0282",
+      "accountId": "a-card",
+      "date": "2026-05-13",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4035,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0283",
+      "accountId": "a-card",
+      "date": "2026-05-13",
+      "merchantRaw": "ローソン",
+      "amountYen": 1175,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0284",
+      "accountId": "a-card",
+      "date": "2026-05-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0285",
+      "accountId": "a-card",
+      "date": "2026-05-15",
+      "merchantRaw": "スターバックス",
+      "amountYen": 586,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0286",
+      "accountId": "a-card",
+      "date": "2026-05-15",
+      "merchantRaw": "ローソン",
+      "amountYen": 776,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0287",
+      "accountId": "a-card",
+      "date": "2026-05-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0288",
+      "accountId": "a-card",
+      "date": "2026-05-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1025,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0289",
+      "accountId": "a-bank",
+      "date": "2026-05-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4978,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0290",
+      "accountId": "a-card",
+      "date": "2026-05-21",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 734,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0291",
+      "accountId": "a-card",
+      "date": "2026-05-21",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3964,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0292",
+      "accountId": "a-card",
+      "date": "2026-05-21",
+      "merchantRaw": "ローソン",
+      "amountYen": 566,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0293",
+      "accountId": "a-card",
+      "date": "2026-05-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0294",
+      "accountId": "a-card",
+      "date": "2026-05-24",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3269,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0295",
+      "accountId": "a-card",
+      "date": "2026-05-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0296",
+      "accountId": "a-card",
+      "date": "2026-05-25",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 982,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0297",
+      "accountId": "a-card",
+      "date": "2026-05-25",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1029,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0298",
+      "accountId": "a-card",
+      "date": "2026-05-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0299",
+      "accountId": "a-bank",
+      "date": "2026-05-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0300",
+      "accountId": "a-card",
+      "date": "2026-05-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 852,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0301",
+      "accountId": "a-card",
+      "date": "2026-05-29",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7757,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0302",
+      "accountId": "a-card",
+      "date": "2026-05-29",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2292,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0303",
+      "accountId": "a-card",
+      "date": "2026-05-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1085,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0304",
+      "accountId": "a-card",
+      "date": "2026-05-31",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1371,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0305",
+      "accountId": "a-card",
+      "date": "2026-06-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0306",
+      "accountId": "a-card",
+      "date": "2026-06-01",
+      "merchantRaw": "スターバックス",
+      "amountYen": 930,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0307",
+      "accountId": "a-card",
+      "date": "2026-06-01",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 377,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0308",
+      "accountId": "a-card",
+      "date": "2026-06-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1195,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0309",
+      "accountId": "a-card",
+      "date": "2026-06-02",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1266,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0310",
+      "accountId": "a-card",
+      "date": "2026-06-02",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2292,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0311",
+      "accountId": "a-card",
+      "date": "2026-06-04",
+      "merchantRaw": "ローソン",
+      "amountYen": 996,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0312",
+      "accountId": "a-card",
+      "date": "2026-06-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0313",
+      "accountId": "a-card",
+      "date": "2026-06-05",
+      "merchantRaw": "ローソン",
+      "amountYen": 899,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0314",
+      "accountId": "a-card",
+      "date": "2026-06-06",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4473,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0315",
+      "accountId": "a-card",
+      "date": "2026-06-07",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3331,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0316",
+      "accountId": "a-card",
+      "date": "2026-06-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0317",
+      "accountId": "a-card",
+      "date": "2026-06-08",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1034,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0318",
+      "accountId": "a-card",
+      "date": "2026-06-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1082,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0319",
+      "accountId": "a-card",
+      "date": "2026-06-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0320",
+      "accountId": "a-card",
+      "date": "2026-06-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0321",
+      "accountId": "a-card",
+      "date": "2026-06-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 597,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0322",
+      "accountId": "a-card",
+      "date": "2026-06-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 809,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0323",
+      "accountId": "a-card",
+      "date": "2026-06-14",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3204,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0324",
+      "accountId": "a-card",
+      "date": "2026-06-14",
+      "merchantRaw": "ローソン",
+      "amountYen": 341,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0325",
+      "accountId": "a-card",
+      "date": "2026-06-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0326",
+      "accountId": "a-card",
+      "date": "2026-06-15",
+      "merchantRaw": "スターバックス",
+      "amountYen": 813,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0327",
+      "accountId": "a-card",
+      "date": "2026-06-16",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4298,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0328",
+      "accountId": "a-card",
+      "date": "2026-06-16",
+      "merchantRaw": "スターバックス",
+      "amountYen": 562,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0329",
+      "accountId": "a-card",
+      "date": "2026-06-16",
+      "merchantRaw": "ローソン",
+      "amountYen": 436,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0330",
+      "accountId": "a-card",
+      "date": "2026-06-17",
+      "merchantRaw": "ローソン",
+      "amountYen": 804,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0331",
+      "accountId": "a-card",
+      "date": "2026-06-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0332",
+      "accountId": "a-card",
+      "date": "2026-06-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 602,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0333",
+      "accountId": "a-bank",
+      "date": "2026-06-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 5347,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0334",
+      "accountId": "a-card",
+      "date": "2026-06-21",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 903,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0335",
+      "accountId": "a-card",
+      "date": "2026-06-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0336",
+      "accountId": "a-card",
+      "date": "2026-06-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0337",
+      "accountId": "a-card",
+      "date": "2026-06-25",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1063,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0338",
+      "accountId": "a-card",
+      "date": "2026-06-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0339",
+      "accountId": "a-card",
+      "date": "2026-06-26",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2464,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0340",
+      "accountId": "a-bank",
+      "date": "2026-06-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0341",
+      "accountId": "a-card",
+      "date": "2026-06-28",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 6494,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0342",
+      "accountId": "a-card",
+      "date": "2026-06-29",
+      "merchantRaw": "ローソン",
+      "amountYen": 763,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0343",
+      "accountId": "a-card",
+      "date": "2026-06-30",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 1431,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0344",
+      "accountId": "a-card",
+      "date": "2026-07-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0345",
+      "accountId": "a-card",
+      "date": "2026-07-01",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2308,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0346",
+      "accountId": "a-card",
+      "date": "2026-07-01",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 3020,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0347",
+      "accountId": "a-card",
+      "date": "2026-07-03",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 582,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0348",
+      "accountId": "a-card",
+      "date": "2026-07-04",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 1512,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0349",
+      "accountId": "a-card",
+      "date": "2026-07-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0350",
+      "accountId": "a-card",
+      "date": "2026-07-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 996,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0351",
+      "accountId": "a-card",
+      "date": "2026-07-05",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 964,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0352",
+      "accountId": "a-card",
+      "date": "2026-07-06",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4130,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0353",
+      "accountId": "a-card",
+      "date": "2026-07-07",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7830,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0354",
+      "accountId": "a-card",
+      "date": "2026-07-07",
+      "merchantRaw": "ローソン",
+      "amountYen": 372,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0355",
+      "accountId": "a-card",
+      "date": "2026-07-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0356",
+      "accountId": "a-card",
+      "date": "2026-07-08",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1571,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0357",
+      "accountId": "a-card",
+      "date": "2026-07-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0358",
+      "accountId": "a-card",
+      "date": "2026-07-11",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1158,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0359",
+      "accountId": "a-card",
+      "date": "2026-07-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0360",
+      "accountId": "a-card",
+      "date": "2026-07-12",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 924,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0361",
+      "accountId": "a-card",
+      "date": "2026-07-12",
+      "merchantRaw": "ローソン",
+      "amountYen": 556,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0362",
+      "accountId": "a-card",
+      "date": "2026-07-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 368,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0363",
+      "accountId": "a-card",
+      "date": "2026-07-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1038,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0364",
+      "accountId": "a-card",
+      "date": "2026-07-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0365",
+      "accountId": "a-card",
+      "date": "2026-07-15",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 877,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0366",
+      "accountId": "a-card",
+      "date": "2026-07-15",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3471,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0367",
+      "accountId": "a-card",
+      "date": "2026-07-15",
+      "merchantRaw": "ローソン",
+      "amountYen": 916,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0368",
+      "accountId": "a-card",
+      "date": "2026-07-16",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1157,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0369",
+      "accountId": "a-card",
+      "date": "2026-07-17",
+      "merchantRaw": "スターバックス",
+      "amountYen": 646,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0370",
+      "accountId": "a-card",
+      "date": "2026-07-18",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4962,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0371",
+      "accountId": "a-card",
+      "date": "2026-07-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0372",
+      "accountId": "a-card",
+      "date": "2026-07-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1191,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0373",
+      "accountId": "a-bank",
+      "date": "2026-07-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 5115,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0374",
+      "accountId": "a-card",
+      "date": "2026-07-20",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 285,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0375",
+      "accountId": "a-card",
+      "date": "2026-07-20",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1597,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0376",
+      "accountId": "a-card",
+      "date": "2026-07-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0377",
+      "accountId": "a-card",
+      "date": "2026-07-22",
+      "merchantRaw": "スターバックス",
+      "amountYen": 696,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0378",
+      "accountId": "a-card",
+      "date": "2026-07-23",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 968,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0379",
+      "accountId": "a-card",
+      "date": "2026-07-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0380",
+      "accountId": "a-card",
+      "date": "2026-07-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0381",
+      "accountId": "a-card",
+      "date": "2026-07-26",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1074,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0382",
+      "accountId": "a-bank",
+      "date": "2026-07-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0383",
+      "accountId": "a-card",
+      "date": "2026-07-28",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 1686,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0384",
+      "accountId": "a-card",
+      "date": "2026-07-29",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1276,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0385",
+      "accountId": "a-card",
+      "date": "2026-08-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0386",
+      "accountId": "a-card",
+      "date": "2026-08-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 799,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0387",
+      "accountId": "a-card",
+      "date": "2026-08-03",
+      "merchantRaw": "ローソン",
+      "amountYen": 597,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0388",
+      "accountId": "a-card",
+      "date": "2026-08-04",
+      "merchantRaw": "スターバックス",
+      "amountYen": 867,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0389",
+      "accountId": "a-card",
+      "date": "2026-08-04",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4840,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0390",
+      "accountId": "a-card",
+      "date": "2026-08-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0391",
+      "accountId": "a-card",
+      "date": "2026-08-07",
+      "merchantRaw": "ローソン",
+      "amountYen": 262,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0392",
+      "accountId": "a-card",
+      "date": "2026-08-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0393",
+      "accountId": "a-card",
+      "date": "2026-08-08",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1022,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0394",
+      "accountId": "a-card",
+      "date": "2026-08-09",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 733,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0395",
+      "accountId": "a-card",
+      "date": "2026-08-09",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2847,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0396",
+      "accountId": "a-card",
+      "date": "2026-08-09",
+      "merchantRaw": "ローソン",
+      "amountYen": 956,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0397",
+      "accountId": "a-card",
+      "date": "2026-08-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0398",
+      "accountId": "a-card",
+      "date": "2026-08-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 894,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0399",
+      "accountId": "a-card",
+      "date": "2026-08-11",
+      "merchantRaw": "ローソン",
+      "amountYen": 281,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0400",
+      "accountId": "a-card",
+      "date": "2026-08-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0401",
+      "accountId": "a-card",
+      "date": "2026-08-14",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 909,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0402",
+      "accountId": "a-card",
+      "date": "2026-08-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0403",
+      "accountId": "a-card",
+      "date": "2026-08-16",
+      "merchantRaw": "ローソン",
+      "amountYen": 765,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0404",
+      "accountId": "a-card",
+      "date": "2026-08-18",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4514,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0405",
+      "accountId": "a-card",
+      "date": "2026-08-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0406",
+      "accountId": "a-card",
+      "date": "2026-08-18",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 402,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0407",
+      "accountId": "a-card",
+      "date": "2026-08-19",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 453,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0408",
+      "accountId": "a-card",
+      "date": "2026-08-19",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1271,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0409",
+      "accountId": "a-bank",
+      "date": "2026-08-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4769,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0410",
+      "accountId": "a-card",
+      "date": "2026-08-21",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 955,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0411",
+      "accountId": "a-card",
+      "date": "2026-08-21",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2563,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0412",
+      "accountId": "a-card",
+      "date": "2026-08-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0413",
+      "accountId": "a-card",
+      "date": "2026-08-23",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 7693,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0414",
+      "accountId": "a-card",
+      "date": "2026-08-24",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3172,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0415",
+      "accountId": "a-card",
+      "date": "2026-08-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0416",
+      "accountId": "a-card",
+      "date": "2026-08-25",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3036,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0417",
+      "accountId": "a-card",
+      "date": "2026-08-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0418",
+      "accountId": "a-card",
+      "date": "2026-08-26",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1106,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0419",
+      "accountId": "a-bank",
+      "date": "2026-08-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0420",
+      "accountId": "a-card",
+      "date": "2026-08-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 879,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0421",
+      "accountId": "a-card",
+      "date": "2026-08-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1308,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0422",
+      "accountId": "a-card",
+      "date": "2026-08-28",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2100,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0423",
+      "accountId": "a-card",
+      "date": "2026-08-29",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 2898,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0424",
+      "accountId": "a-card",
+      "date": "2026-08-30",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4940,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0425",
+      "accountId": "a-card",
+      "date": "2026-09-01",
+      "merchantRaw": "HULU",
+      "amountYen": 1026,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0426",
+      "accountId": "a-card",
+      "date": "2026-09-02",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 978,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0427",
+      "accountId": "a-card",
+      "date": "2026-09-02",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3738,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0428",
+      "accountId": "a-card",
+      "date": "2026-09-05",
+      "merchantRaw": "NETFLIX.COM",
+      "amountYen": 1590,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0429",
+      "accountId": "a-card",
+      "date": "2026-09-05",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 568,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0430",
+      "accountId": "a-card",
+      "date": "2026-09-06",
+      "merchantRaw": "ローソン",
+      "amountYen": 637,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0431",
+      "accountId": "a-card",
+      "date": "2026-09-07",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 971,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0432",
+      "accountId": "a-card",
+      "date": "2026-09-07",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1160,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0433",
+      "accountId": "a-card",
+      "date": "2026-09-08",
+      "merchantRaw": "APPLE.COM/BILL",
+      "amountYen": 1030,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0434",
+      "accountId": "a-card",
+      "date": "2026-09-08",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 1139,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0435",
+      "accountId": "a-card",
+      "date": "2026-09-10",
+      "merchantRaw": "AUDIBLE",
+      "amountYen": 1500,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0436",
+      "accountId": "a-card",
+      "date": "2026-09-10",
+      "merchantRaw": "まいばすけっと",
+      "amountYen": 3484,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0437",
+      "accountId": "a-card",
+      "date": "2026-09-11",
+      "merchantRaw": "スターバックス",
+      "amountYen": 692,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0438",
+      "accountId": "a-card",
+      "date": "2026-09-11",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 497,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0439",
+      "accountId": "a-card",
+      "date": "2026-09-11",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 884,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0440",
+      "accountId": "a-card",
+      "date": "2026-09-11",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 1376,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0441",
+      "accountId": "a-card",
+      "date": "2026-09-12",
+      "merchantRaw": "U-NEXT",
+      "amountYen": 2189,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0442",
+      "accountId": "a-card",
+      "date": "2026-09-13",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 608,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0443",
+      "accountId": "a-card",
+      "date": "2026-09-15",
+      "merchantRaw": "ADOBE",
+      "amountYen": 1180,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0444",
+      "accountId": "a-card",
+      "date": "2026-09-15",
+      "merchantRaw": "ユニクロ",
+      "amountYen": 5946,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0445",
+      "accountId": "a-card",
+      "date": "2026-09-15",
+      "merchantRaw": "ローソン",
+      "amountYen": 945,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0446",
+      "accountId": "a-card",
+      "date": "2026-09-16",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 614,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0447",
+      "accountId": "a-card",
+      "date": "2026-09-18",
+      "merchantRaw": "SPOTIFY",
+      "amountYen": 980,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0448",
+      "accountId": "a-bank",
+      "date": "2026-09-20",
+      "merchantRaw": "東京電力EP",
+      "amountYen": 4682,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0449",
+      "accountId": "a-card",
+      "date": "2026-09-20",
+      "merchantRaw": "スターバックス",
+      "amountYen": 1021,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0450",
+      "accountId": "a-card",
+      "date": "2026-09-20",
+      "merchantRaw": "ローソン",
+      "amountYen": 701,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0451",
+      "accountId": "a-card",
+      "date": "2026-09-22",
+      "merchantRaw": "AMAZON PRIME",
+      "amountYen": 600,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0452",
+      "accountId": "a-card",
+      "date": "2026-09-23",
+      "merchantRaw": "スターバックス",
+      "amountYen": 579,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0453",
+      "accountId": "a-card",
+      "date": "2026-09-23",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 3442,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0454",
+      "accountId": "a-card",
+      "date": "2026-09-24",
+      "merchantRaw": "AMAZON.CO.JP",
+      "amountYen": 4087,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0455",
+      "accountId": "a-card",
+      "date": "2026-09-24",
+      "merchantRaw": "モバイルSUICA",
+      "amountYen": 4060,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0456",
+      "accountId": "a-card",
+      "date": "2026-09-24",
+      "merchantRaw": "ローソン",
+      "amountYen": 676,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0457",
+      "accountId": "a-card",
+      "date": "2026-09-25",
+      "merchantRaw": "DAZN",
+      "amountYen": 4200,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0458",
+      "accountId": "a-card",
+      "date": "2026-09-25",
+      "merchantRaw": "スターバックス",
+      "amountYen": 762,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0459",
+      "accountId": "a-card",
+      "date": "2026-09-26",
+      "merchantRaw": "AHAMO",
+      "amountYen": 2970,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0460",
+      "accountId": "a-bank",
+      "date": "2026-09-27",
+      "merchantRaw": "家賃 モック不動産",
+      "amountYen": 78000,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0461",
+      "accountId": "a-card",
+      "date": "2026-09-28",
+      "merchantRaw": "セブン-イレブン",
+      "amountYen": 990,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0462",
+      "accountId": "a-card",
+      "date": "2026-09-29",
+      "merchantRaw": "スターバックス",
+      "amountYen": 973,
+      "currency": "JPY"
+    },
+    {
+      "id": "a-0463",
+      "accountId": "a-card",
+      "date": "2026-09-30",
+      "merchantRaw": "ローソン",
+      "amountYen": 809,
+      "currency": "JPY"
+    }
+  ],
+  "usageAnswers": [
+    {
+      "month": "2026-07",
+      "recurringKey": "netflix",
+      "answer": "using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "netflix",
+      "answer": "using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "netflix",
+      "answer": "using"
+    },
+    {
+      "month": "2026-07",
+      "recurringKey": "unext",
+      "answer": "using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "unext",
+      "answer": "using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "unext",
+      "answer": "using"
+    },
+    {
+      "month": "2026-07",
+      "recurringKey": "dazn",
+      "answer": "not_using"
+    },
+    {
+      "month": "2026-08",
+      "recurringKey": "dazn",
+      "answer": "not_using"
+    },
+    {
+      "month": "2026-09",
+      "recurringKey": "dazn",
+      "answer": "not_using"
+    }
+  ],
+  "cancellations": [
+    {
+      "recurringKey": "hulu",
+      "reportedOn": "2026-06-10"
+    }
+  ]
+}

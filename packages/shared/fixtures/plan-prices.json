@@ -1,0 +1,14 @@
+[
+  {
+    "serviceId": "amazon-prime",
+    "serviceName": "Amazonプライム",
+    "monthlyYen": 600,
+    "annualYen": 5900
+  },
+  {
+    "serviceId": "disney-plus",
+    "serviceName": "Disney+",
+    "monthlyYen": 990,
+    "annualYen": 9900
+  }
+]

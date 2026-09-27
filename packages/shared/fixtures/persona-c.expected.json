@@ -1,0 +1,148 @@
+{
+  "persona": "C",
+  "recurring": [
+    {
+      "key": "electricity",
+      "serviceId": "tepco",
+      "serviceName": "東京電力",
+      "category": "electricity",
+      "merchantRaw": "東京電力EP",
+      "accountId": "c-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "c-0017",
+        "c-0039",
+        "c-0066",
+        "c-0086",
+        "c-0109",
+        "c-0135",
+        "c-0152",
+        "c-0182",
+        "c-0202",
+        "c-0221",
+        "c-0247",
+        "c-0268"
+      ],
+      "latestAmountYen": 6162,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "mobile",
+      "serviceId": "docomo",
+      "serviceName": "ドコモ",
+      "category": "mobile",
+      "merchantRaw": "DOCOMO",
+      "accountId": "c-card-1",
+      "cadence": "monthly",
+      "transactionIds": [
+        "c-0008",
+        "c-0032",
+        "c-0053",
+        "c-0077",
+        "c-0097",
+        "c-0119",
+        "c-0143",
+        "c-0165",
+        "c-0191",
+        "c-0213",
+        "c-0238",
+        "c-0260"
+      ],
+      "latestAmountYen": 7799,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "spotify",
+      "serviceId": "spotify",
+      "serviceName": "Spotify",
+      "category": "music",
+      "merchantRaw": "SPOTIFY",
+      "accountId": "c-card-1",
+      "cadence": "monthly",
+      "transactionIds": [
+        "c-0012",
+        "c-0035",
+        "c-0061",
+        "c-0082",
+        "c-0105",
+        "c-0132",
+        "c-0148",
+        "c-0174",
+        "c-0199",
+        "c-0216",
+        "c-0242",
+        "c-0266"
+      ],
+      "latestAmountYen": 980,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "gym",
+      "serviceId": "anytime-fitness",
+      "serviceName": "エニタイムフィットネス",
+      "category": "fitness",
+      "merchantRaw": "ANYTIME FITNESS",
+      "accountId": "c-card-2",
+      "cadence": "monthly",
+      "transactionIds": [
+        "c-0001",
+        "c-0022",
+        "c-0046",
+        "c-0069",
+        "c-0091",
+        "c-0112",
+        "c-0136",
+        "c-0159",
+        "c-0185",
+        "c-0206",
+        "c-0231",
+        "c-0252"
+      ],
+      "latestAmountYen": 7678,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "youtube-premium",
+      "serviceId": "youtube-premium",
+      "serviceName": "YouTube Premium",
+      "category": "video",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "accountId": "c-card-3",
+      "cadence": "monthly",
+      "transactionIds": [
+        "c-0004",
+        "c-0025",
+        "c-0049",
+        "c-0072",
+        "c-0093",
+        "c-0117",
+        "c-0138",
+        "c-0160",
+        "c-0189",
+        "c-0209",
+        "c-0234",
+        "c-0254"
+      ],
+      "latestAmountYen": 1280,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    }
+  ],
+  "cases": [
+    {
+      "kind": "double_charge",
+      "recurringKeys": [
+        "spotify"
+      ],
+      "transactionIds": [
+        "c-0174",
+        "c-0175"
+      ],
+      "duplicateTransactionId": "c-0175"
+    }
+  ]
+}

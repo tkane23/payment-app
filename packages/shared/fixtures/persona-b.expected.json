@@ -1,0 +1,397 @@
+{
+  "persona": "B",
+  "recurring": [
+    {
+      "key": "mortgage",
+      "serviceId": "mortgage",
+      "serviceName": "住宅ローン",
+      "category": "housing",
+      "merchantRaw": "住宅ローン モック信託銀行",
+      "accountId": "b-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0041",
+        "b-0085",
+        "b-0134",
+        "b-0169",
+        "b-0217",
+        "b-0262",
+        "b-0303",
+        "b-0340",
+        "b-0385",
+        "b-0428",
+        "b-0474",
+        "b-0518"
+      ],
+      "latestAmountYen": 102000,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "electricity",
+      "serviceId": "tepco",
+      "serviceName": "東京電力",
+      "category": "electricity",
+      "merchantRaw": "東京電力EP",
+      "accountId": "b-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0031",
+        "b-0076",
+        "b-0120",
+        "b-0166",
+        "b-0212",
+        "b-0255",
+        "b-0298",
+        "b-0333",
+        "b-0376",
+        "b-0418",
+        "b-0468",
+        "b-0511"
+      ],
+      "latestAmountYen": 8805,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "gas",
+      "serviceId": "tokyo-gas",
+      "serviceName": "東京ガス",
+      "category": "gas",
+      "merchantRaw": "東京ガス",
+      "accountId": "b-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0028",
+        "b-0071",
+        "b-0111",
+        "b-0159",
+        "b-0205",
+        "b-0247",
+        "b-0288",
+        "b-0328",
+        "b-0368",
+        "b-0409",
+        "b-0459",
+        "b-0503"
+      ],
+      "latestAmountYen": 6430,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "life-insurance",
+      "serviceId": "life-insurance",
+      "serviceName": "生命保険",
+      "category": "insurance",
+      "merchantRaw": "モック生命保険",
+      "accountId": "b-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0040",
+        "b-0084",
+        "b-0133",
+        "b-0168",
+        "b-0216",
+        "b-0261",
+        "b-0302",
+        "b-0339",
+        "b-0384",
+        "b-0427",
+        "b-0473",
+        "b-0517"
+      ],
+      "latestAmountYen": 8400,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "childcare",
+      "serviceId": "childcare",
+      "serviceName": "保育料",
+      "category": "childcare",
+      "merchantRaw": "保育料 モック市",
+      "accountId": "b-bank",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0017",
+        "b-0062",
+        "b-0102",
+        "b-0150",
+        "b-0190",
+        "b-0237",
+        "b-0279",
+        "b-0321",
+        "b-0359",
+        "b-0400",
+        "b-0451",
+        "b-0495"
+      ],
+      "latestAmountYen": 36000,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "mobile",
+      "serviceId": "docomo",
+      "serviceName": "ドコモ（家族）",
+      "category": "mobile",
+      "merchantRaw": "DOCOMO",
+      "accountId": "b-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0025",
+        "b-0069",
+        "b-0106",
+        "b-0156",
+        "b-0202",
+        "b-0245",
+        "b-0286",
+        "b-0324",
+        "b-0364",
+        "b-0407",
+        "b-0457",
+        "b-0500"
+      ],
+      "latestAmountYen": 13380,
+      "variableAmount": true,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "netflix-self",
+      "serviceId": "netflix",
+      "serviceName": "Netflix",
+      "category": "video",
+      "merchantRaw": "NETFLIX.COM",
+      "accountId": "b-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0013",
+        "b-0057",
+        "b-0098",
+        "b-0144",
+        "b-0183",
+        "b-0231",
+        "b-0275",
+        "b-0318",
+        "b-0352",
+        "b-0395",
+        "b-0445",
+        "b-0491"
+      ],
+      "latestAmountYen": 2290,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "amazon-prime",
+      "serviceId": "amazon-prime",
+      "serviceName": "Amazonプライム",
+      "category": "shopping",
+      "merchantRaw": "AMAZON PRIME",
+      "accountId": "b-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0004",
+        "b-0050",
+        "b-0096",
+        "b-0141",
+        "b-0178",
+        "b-0224",
+        "b-0268",
+        "b-0315",
+        "b-0350",
+        "b-0392",
+        "b-0438",
+        "b-0486"
+      ],
+      "latestAmountYen": 600,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "nikkei",
+      "serviceId": "nikkei",
+      "serviceName": "日経電子版",
+      "category": "news",
+      "merchantRaw": "NIKKEI",
+      "accountId": "b-card",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0001",
+        "b-0047",
+        "b-0092",
+        "b-0139",
+        "b-0175",
+        "b-0221",
+        "b-0266",
+        "b-0310",
+        "b-0348",
+        "b-0391",
+        "b-0435",
+        "b-0480"
+      ],
+      "latestAmountYen": 4277,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "netflix-family",
+      "serviceId": "netflix",
+      "serviceName": "Netflix",
+      "category": "video",
+      "merchantRaw": "NETFLIX.COM",
+      "accountId": "b-card-family",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0023",
+        "b-0068",
+        "b-0105",
+        "b-0154",
+        "b-0200",
+        "b-0244",
+        "b-0285",
+        "b-0323",
+        "b-0362",
+        "b-0406",
+        "b-0455",
+        "b-0498"
+      ],
+      "latestAmountYen": 890,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "youtube-premium",
+      "serviceId": "youtube-premium",
+      "serviceName": "YouTube Premium",
+      "category": "video",
+      "merchantRaw": "GOOGLE *YOUTUBEPREMIUM",
+      "accountId": "b-card-family",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0015",
+        "b-0060",
+        "b-0101",
+        "b-0148",
+        "b-0189",
+        "b-0235",
+        "b-0278",
+        "b-0319",
+        "b-0358",
+        "b-0399",
+        "b-0449",
+        "b-0494"
+      ],
+      "latestAmountYen": 1280,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "spotify",
+      "serviceId": "spotify",
+      "serviceName": "Spotify",
+      "category": "music",
+      "merchantRaw": "SPOTIFY",
+      "accountId": "b-card-family",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0030",
+        "b-0075",
+        "b-0118",
+        "b-0165",
+        "b-0211",
+        "b-0253",
+        "b-0297",
+        "b-0332",
+        "b-0375",
+        "b-0417",
+        "b-0467",
+        "b-0510"
+      ],
+      "latestAmountYen": 980,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    },
+    {
+      "key": "disney-plus",
+      "serviceId": "disney-plus",
+      "serviceName": "Disney+",
+      "category": "video",
+      "merchantRaw": "DISNEY PLUS",
+      "accountId": "b-card-family",
+      "cadence": "monthly",
+      "transactionIds": [
+        "b-0215",
+        "b-0257",
+        "b-0299",
+        "b-0336",
+        "b-0383",
+        "b-0426",
+        "b-0471",
+        "b-0515"
+      ],
+      "latestAmountYen": 990,
+      "variableAmount": false,
+      "bundledBreakdown": null
+    }
+  ],
+  "cases": [
+    {
+      "kind": "duplicate",
+      "reason": "same_service",
+      "category": "video",
+      "recurringKeys": [
+        "netflix-self",
+        "netflix-family"
+      ],
+      "transactionIds": [
+        "b-0491",
+        "b-0498"
+      ]
+    },
+    {
+      "kind": "duplicate",
+      "reason": "same_category",
+      "category": "video",
+      "recurringKeys": [
+        "netflix-self",
+        "netflix-family",
+        "youtube-premium",
+        "disney-plus"
+      ],
+      "transactionIds": [
+        "b-0491",
+        "b-0498",
+        "b-0494",
+        "b-0515"
+      ]
+    },
+    {
+      "kind": "annualization_candidate",
+      "recurringKeys": [
+        "amazon-prime"
+      ],
+      "transactionIds": [
+        "b-0486"
+      ],
+      "monthsContinued": 12,
+      "monthlyYen": 600,
+      "annualYen": 5900,
+      "annualSavingYen": 1300
+    },
+    {
+      "kind": "annualization_candidate",
+      "recurringKeys": [
+        "disney-plus"
+      ],
+      "transactionIds": [
+        "b-0515"
+      ],
+      "monthsContinued": 8,
+      "monthlyYen": 990,
+      "annualYen": 9900,
+      "annualSavingYen": 1980
+    }
+  ]
+}
